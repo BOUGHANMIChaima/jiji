@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R framework | Chaïma Boughanmi</title>
+    <link>/fr/tag/r-framework/</link>
+      <atom:link href="/fr/tag/r-framework/index.xml" rel="self" type="application/rss+xml" />
+    <description>R framework</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>R framework</title>
+      <link>/fr/tag/r-framework/</link>
+    </image>
+    
+    <item>
+      <title>Dashboard tracking Covid-19 in Tunisia</title>
+      <link>/fr/project/example4/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/fr/project/example4/</guid>
+      <description>&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;The input data for this dashboard is the dataset available from the coronavirus R package thanks to Thomas Neitmann.
+The data and dashboard are refreshed on a daily basis.
+The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository.&lt;/p&gt;
+&lt;h2 id=&#34;update&#34;&gt;Update&lt;/h2&gt;
+&lt;p&gt;The data is as of juin 18, 2020 and the dashboard has been updated on juin 19, 2020.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The dashboard was last updated in 2020, so the data is out of date.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

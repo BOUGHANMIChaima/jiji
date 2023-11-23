@@ -1,0 +1,4781 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: November 22, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.6" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+          
+        
+      
+        
+      
+        
+      
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.32e2e32cf1a4c1ea152e519f8b1fda79.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FJPPZSLBD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-6FJPPZSLBD', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Chaïma Boughanmi" />
+
+
+
+
+
+  
+
+<meta name="description" content="A personnel website using created Hugo." />
+
+
+
+  <link rel="alternate" hreflang="fr" href="/fr/" />
+
+<link rel="alternate" hreflang="en-us" href="/" />
+<link rel="canonical" href="/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+    
+    <meta property="profile:first_name" content="Chaïma">
+    <meta property="profile:last_name" content="Boughanmi">
+  
+
+<meta property="og:type" content="profile" />
+<meta property="og:site_name" content="Chaïma Boughanmi" />
+<meta property="og:url" content="/" />
+<meta property="og:title" content="Chaïma Boughanmi" />
+<meta property="og:description" content="A personnel website using created Hugo." /><meta property="og:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta property="og:updated_time" content="2023-11-21T00:00:00&#43;00:00" />
+  
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": ""
+}
+</script>
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Chaïma Boughanmi" />
+  
+
+  
+
+
+  
+  <title>Chaïma Boughanmi</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="3976528693a0108357f4928017600865" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.3a6bdbdff5d8a89d6e651adb3deec035.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Chaïma Boughanmi</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Chaïma Boughanmi</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#skills" data-target="#skills"><span>Skills</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#experiences" data-target="#experiences"><span>Experiences</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#accomplishments" data-target="#accomplishments"><span>Accomplishments</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks" data-target="#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#pub" data-target="#pub"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#gallery" data-target="#gallery"><span>Gallery</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="/fr/" data-target="/fr/">
+              <span>Français</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+<span class="js-widget-page d-none"></span>
+
+
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="about" class="home-section wg-about-biography  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle"
+           width="270" height="270"
+           src="/authors/admin/avatar_hua07182ae87fff5ff719ad68a275c79ed_251800_270x270_fill_lanczos_center_3.PNG" alt="Chaïma Boughanmi">
+      
+
+      <div class="portrait-title">
+
+        <h2>Chaïma Boughanmi</h2>
+
+        <h3>Data Scientist @ BVA xsight | R shiny developer <br /> Organizer @ R-Ladies Paris <br /> Paris France</h3>
+
+        
+        <h3>
+          <a href="https://www.bva.fr/" target="_blank" rel="noopener">
+          <span>BVA xsight</span>
+          </a>
+        </h3>
+        
+        <h3>
+          <a href="https://www.meetup.com/fr-FR/rladies-paris/" target="_blank" rel="noopener">
+          <span>R-Ladies Paris</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a href="mailto:boughanmichaima9@gmail.com"  aria-label="envelope">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/BOUGHANMIChaima" target="_blank" rel="noopener" aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.linkedin.com/in/chaima-boug/" target="_blank" rel="noopener" aria-label="linkedin">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/uploads/resume.pdf"  aria-label="cv">
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Biography</h1>
+
+    
+    <div class="article-style">
+      <p>Chaïma BOUGHANMI is a junior data scientist at <a href="https://www.bva.fr/" target="_blank" rel="noopener">BVA xsight</a> in Paris. Data science was the perfectly suited discipline
+for her. She is an engineer in statistics and information analysis.
+She holds a master&rsquo;s degree in data science from <a href="https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance" target="_blank" rel="noopener">Université Paris Saclay</a> and a research master&rsquo;s degree in information processing and complexity of living systems.
+Very comfortable with numbers and statistics, she likes to give them meaning and see them have an impact on reality.
+She has worked in several fields: energy, sports, polling, FMCG, automotive, telecom, media and marketing.
+During her studies, Ms. Boughanmi acquired experience in mathematical modeling, data analysis, programming, data visualization and machine learning.
+She also had the opportunity, through her engineering internship, her two end-of-study internships for master&rsquo;s studies and academic projects, to gain an understanding of the data analysis issues in which she was particularly interested, and to build up experience in this field.
+Through her studies, Chaïma developed a deep interest in large-scale data analysis and processing, forecasting, optimization, data mining and graph theory.
+She loves bringing numbers to life, giving them meaning and value.
+She has a very good mastery of programming languages, especially
+R and R/shiny. She was a member of <a href="https://www.meetup.com/rladies-tunis/" target="_blank" rel="noopener">R-Ladies Tunis</a> when she was a student and is currently one of the organizers of <a href="https://www.meetup.com/fr-FR/rladies-paris/" target="_blank" rel="noopener">R-Ladies Paris</a>.
+She also masters Python, SQL, SAS and, not surprisingly, Latex and Git.
+Miss Boughanmi is a footballer, so when she&rsquo;s not playing with numbers and data, she&rsquo;s playing with the ball ! That&rsquo;s why she chose to work on tactical analysis of team sports during her Master&rsquo;s research.
+With the Paris Saclay team, Chaïma and her teammates qualified for the 2022 france championship, finishing first in île de France and 5th in all of France.</p>
+
+    </div>
+    
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <div class="section-subheading">Interests</div>
+        <ul class="ul-interests fa-ul mb-0">
+          
+          <li>
+            <i class="fa-li fa-solid fa-book-open"></i>
+            Statistics &amp; Machine learning
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-book-open"></i>
+            Coding
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-book-open"></i>
+            Data analysis and visualization
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-book-open"></i>
+            Marketing Mix Modeling (MMM)
+          </li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <div class="section-subheading">Education</div>
+        <ul class="ul-edu fa-ul mb-0">
+          
+          <li>
+            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Master&#39;s degree in Data Science, 2022</p>
+              <p class="institution">Université Paris Scalay</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Engineering diploma in statistics and information analysis, 2021</p>
+              <p class="institution">Ecole supérieure de la statistique et de l&#39;analyse de l&#39;information</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Master&#39;s degree in information processing and complexity of living systems, 2021</p>
+              <p class="institution">Ecole d&#39;igénieurs de Tunis</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fa-solid fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">National competitive engineering entrance examination, 2018</p>
+              <p class="institution">Preparatory institute for engineering studies</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="skills" class="home-section wg-features  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+
+    
+
+
+
+
+
+
+
+<div class="row featurette">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Skills</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-r-project"></i></div>
+    
+    <div class="section-subheading">R / R shiny</div>
+    <p>90%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-markdown"></i></div>
+    
+    <div class="section-subheading">R Markdown</div>
+    <p>85%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-chart-line"></i></div>
+    
+    <div class="section-subheading">Statistics</div>
+    <p>80%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-chart-simple"></i></div>
+    
+    <div class="section-subheading">Data analysis</div>
+    <p>70%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-chart-pie"></i></div>
+    
+    <div class="section-subheading">Data visualization</div>
+    <p>70%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-brain"></i></div>
+    
+    <div class="section-subheading">Machine learning</div>
+    <p>50%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-m"></i></div>
+    
+    <div class="section-subheading">Marketing Mix Modeling</div>
+    <p>70%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-database"></i></div>
+    
+    <div class="section-subheading">SQL</div>
+    <p>65%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-python"></i></div>
+    
+    <div class="section-subheading">Python</div>
+    <p>50%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-git"></i></div>
+    
+    <div class="section-subheading">Git</div>
+    <p>70%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-leaf"></i></div>
+    
+    <div class="section-subheading">Overleaf</div>
+    <p>85%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fab fa-microsoft"></i></div>
+    
+    <div class="section-subheading">Microsoft office</div>
+    <p>90%</p>
+  </div>
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-4">
+    
+    <div class="featurette-icon"><i class="fas fa-futbol"></i></div>
+    
+    <div class="section-subheading">Playing football &amp; Sport Analytics</div>
+    <p>85%</p>
+  </div>
+  
+</div>
+
+
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="experiences" class="home-section wg-experience  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Experiences</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+
+  
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.meetup.com/fr-FR/rladies-paris/" target="_blank" rel="noopener"><img src="/media/icons/brands/rladiesparis.jpg" width="56" height="56" alt="R-Ladies Paris" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Volunteer organizer</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.meetup.com/fr-FR/rladies-paris/" target="_blank" rel="noopener">R-Ladies Paris</a></div>
+              <div class="text-muted exp-meta">
+                September 2023 –
+                
+                  Present
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Paris</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li>Help organize conferences and workshops using the <strong>R language</strong>.</li>
+<li>Make posters, communicate and publish our events and materials (recordings, code, slides) on our social networks.</li>
+<li>Contact and host speakers and trainers to promote the use of the R language worldwide.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.bva.fr/" target="_blank" rel="noopener"><img src="/media/icons/brands/bva.jpg" width="56" height="56" alt="BVA xsight" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Data Scientist &amp; Business Modeler</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.bva.fr/" target="_blank" rel="noopener">BVA xsight</a></div>
+              <div class="text-muted exp-meta">
+                November 2022 –
+                
+                  Present
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Paris</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><strong>Analysing</strong> : <strong>Marketing Mix Modeling</strong>, <strong>ROI</strong> Market Research : quantify the past and future effects of decisions, <strong>estimate</strong> the value of intangible assets.</li>
+<li><strong>Modelling</strong> : 3-dimensional modeling: mathematical to connect all the factors that explain business performance, financial to arbitrate, and visual to collaborate and mediate.</li>
+<li><strong>Deploying and visualization</strong> : Business Viz, dashboarding and presentation.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.rte-france.com/" target="_blank" rel="noopener"><img src="/media/icons/brands/rte.jpg" width="56" height="56" alt="Rte" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Data Scientist</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.rte-france.com/" target="_blank" rel="noopener">Rte</a></div>
+              <div class="text-muted exp-meta">
+                April 2022 –
+                
+                  October 2022
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Paris</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li>Creation of <strong>SQL</strong> queries to extract data from various department databases.</li>
+<li>Processing and analysis of data required to improve the &lsquo;planning process&rsquo;.</li>
+<li>Creation, publication and documentation of an interactive dashboard using <strong>R Shiny</strong>.</li>
+<li>Classification of &rsquo;energy works&rsquo; and accuracy of consumption using machine learning algorithms with <strong>python</strong>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.who.int/fr" target="_blank" rel="noopener"><img src="/media/icons/brands/who.jpg" width="56" height="56" alt="World Health Organization" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Statistician trainer</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.who.int/fr" target="_blank" rel="noopener">World Health Organization</a></div>
+              <div class="text-muted exp-meta">
+                August 2021 –
+                
+                  August 2021
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tunisia</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li>Animating the practical part of the training session for managers of the National Road Safety Observatory.</li>
+<li>Application using <strong>R</strong>, <strong>descriptive statistics</strong> and <strong>inferential statistics</strong>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.greyc.fr/" target="_blank" rel="noopener"><img src="/media/icons/brands/greyc.jpg" width="56" height="56" alt="Laboratoire GREYC - University of Caen Normandie" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Data mining researcher</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.greyc.fr/" target="_blank" rel="noopener">Laboratoire GREYC - University of Caen Normandie</a></div>
+              <div class="text-muted exp-meta">
+                March 2021 –
+                
+                  August 2021
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Caen, France</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li><strong>Tactical analysis</strong> of team sports data : Implementation of an algorithm based on <strong>dynamic graphs</strong> to identify styles of play by detecting <strong>frequent patterns</strong> among players in collective sports.</li>
+<li>Applying the algorithm to data from the Qatar 2015 <strong>handball world cup</strong>.</li>
+<li>Participation in the editing of a <strong>research paper</strong>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.meetup.com/rladies-tunis/" target="_blank" rel="noopener"><img src="/media/icons/brands/rladiestunis.jpg" width="56" height="56" alt="R-Ladies Tunis" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Active member</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.meetup.com/rladies-tunis/" target="_blank" rel="noopener">R-Ladies Tunis</a></div>
+              <div class="text-muted exp-meta">
+                January 2021 –
+                
+                  August 2021
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tunisia</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li>Help organize conferences and workshops using the <strong>R language</strong>.</li>
+<li>Make posters, communicate and publish our events and materials (recordings, code, slides) on our social networks.</li>
+<li>Contact and host speakers and trainers to promote the use of the R language worldwide.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://121polling.tn/en/" target="_blank" rel="noopener"><img src="/media/icons/brands/one.jpg" width="56" height="56" alt="One to One for Research and Polling" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Data Analyst</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://121polling.tn/en/" target="_blank" rel="noopener">One to One for Research and Polling</a></div>
+              <div class="text-muted exp-meta">
+                July 2020 –
+                
+                  August 2020
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Tunisia</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><ul>
+<li>Data collection (from different areas: policy, panel, migration and different types) and data cleaning using <strong>R language</strong>.</li>
+<li>Analyze data and create explanatory <strong>graphs</strong>.</li>
+<li>Calculation of indicators and implementation of <strong>R shiny dashboards</strong>.</li>
+</ul>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="posts" class="home-section wg-accomplishments  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Accomplish­ments</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+    <div class="card experience course">
+      <div class="card-body">
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2"><a href="https://www.who.int/" target="_blank" rel="noopener"><img src="/media/icons/brands/who.jpg" width="56" height="56" alt="WHO" loading="lazy"></a></div>
+          <div>
+        <div class="section-subheading card-title exp-title text-muted my-0">Statistics in the service of road safety</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.who.int/" target="_blank" rel="noopener">WHO</a><span class="middot-divider"></span>
+
+              Aug 2021
+              
+            </div>
+          </div>
+        </div>
+        
+
+        
+          <div class="card-text">Animating the practical part of the training session for managers of the National Road Safety Observatory using statistics and R programming.</div>
+        
+
+        
+          <a class="card-link" href="https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing" target="_blank" rel="noopener">
+            See certificate
+          </a>
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body">
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2"><a href="https://www.etsglobal.org/fr/" target="_blank" rel="noopener"><img src="/media/icons/brands/ets.jpg" width="56" height="56" alt="ETS" loading="lazy"></a></div>
+          <div>
+        <div class="section-subheading card-title exp-title text-muted my-0">TOEIC</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.etsglobal.org/fr/" target="_blank" rel="noopener">ETS</a><span class="middot-divider"></span>
+
+              Dec 2020
+              
+              – Dec 2022
+              
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+        
+          <a class="card-link" href="https://drive.google.com/file/d/1TSfk4O4QYgH7J4IL_k3ayRyITr4QBM2z/view?usp=sharing" target="_blank" rel="noopener">
+            See certificate
+          </a>
+        
+      </div>
+    </div>
+  
+    <div class="card experience course">
+      <div class="card-body">
+        <div class="d-flex align-content-start">
+          <div class="mr-2 mb-2"><a href="https://www.datacamp.com/" target="_blank" rel="noopener"><img src="/media/icons/brands/datacamp.jpg" width="56" height="56" alt="Data camp" loading="lazy"></a></div>
+          <div>
+        <div class="section-subheading card-title exp-title text-muted my-0">Introduction to Deep Learning with Keras</div><div class="card-subtitle my-0 article-metadata"><a href="https://www.datacamp.com/" target="_blank" rel="noopener">Data camp</a><span class="middot-divider"></span>
+
+              Jan 2020
+              
+            </div>
+          </div>
+        </div>
+        
+
+        
+
+        
+          <a class="card-link" href="https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing" target="_blank" rel="noopener">
+            See certificate
+          </a>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="projects" class="home-section wg-portfolio  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Projects</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 ">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+      
+      
+        
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar d-flex justify-content-center">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-r" class="btn btn-primary btn-lg">R</a>
+            
+              
+              
+              
+                
+                  
+                
+              
+              <a href="#" data-filter=".js-id-python" class="btn btn-primary btn-lg">Other</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container row js-layout-row project-showcase">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+    
+    
+      
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+      
+        
+          <div class="col-12 isotope-item js-id-r js-id-shiny js-id-sql js-id-energy-data">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/exemple5/" >Shiny application for the energy sector</a></div>
+
+      
+      <div class="article-style">
+        Enhance the performance of the transmission system process through data analysis and machine learning.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://drive.google.com/file/d/1SHKwot0uQv_XE3-Ef4xDjpITvhqKiFQ2/view?usp=sharing" target="_blank" rel="noopener">
+    <i class="fas fa-video mr-1"></i>View demo</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/exemple5/" >
+          <img src="/project/exemple5/featured_hu41402b03dc9784078b8a7fc53c992069_403577_540x0_resize_q75_h2_lanczos_3.webp" height="281" width="540"
+              alt="Shiny application for the energy sector" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-python">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/example2/" >Fall detection using Machine Learning</a></div>
+
+      
+      <div class="article-style">
+        Machine learning algorithms used and comparison of results
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/BOUGHANMIChaima/Fall-detection-using-Machine-Learning" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>View code</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/example2/" >
+          <img src="/project/example2/featured_hu79a6f104912c4224d9d892ed44cb7fa5_11379_540x0_resize_q75_h2_lanczos.webp" height="295" width="540"
+              alt="Fall detection using Machine Learning" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-python">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/external-project/" >Crypto-prediction</a></div>
+
+      
+      <div class="article-style">
+        Cryptocurrencies price prediction.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/BOUGHANMIChaima/Crypto-prediction" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>View code</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/external-project/" >
+          <img src="/project/external-project/featured_hu79aab6e1e7a181e4c4be5c1c623aa20d_7796_540x0_resize_q75_h2_lanczos.webp" height="355" width="540"
+              alt="Crypto-prediction" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-python">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/example3/" >Recognition-of-written-languages</a></div>
+
+      
+      <div class="article-style">
+        Using algorithms of unsupervised learning to recognize written languages.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/BOUGHANMIChaima/recognition-of-written-languages" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>View code</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/example3/" >
+          <img src="/project/example3/featured_huf9592df2bef0a0e2f4a1f8ae85f3dde5_80373_540x0_resize_q75_h2_lanczos.webp" height="360" width="540"
+              alt="Recognition-of-written-languages" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-r">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/example/" >ShortPath</a></div>
+
+      
+      <div class="article-style">
+        Searching for the shortest path - Application to image reduction and R package creation.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/BOUGHANMIChaima/Short-Path/tree/main" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>View code</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/example/" >
+          <img src="/project/example/featured_huad28da4e1fadc10d480c0ecfa19056c2_98540_540x0_resize_q75_h2_lanczos_3.webp" height="290" width="540"
+              alt="ShortPath" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-r-framework js-id-flexdashboard js-id-markdown">
+        
+        
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div class="col-lg-12 mb-5 view-showcase">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/example4/" >Dashboard tracking Covid-19 in Tunisia</a></div>
+
+      
+      <div class="article-style">
+        The case of Tunisia provides an overview of the 2019 Coronavirus COVID-19 epidemic for Tunisia.
+      </div>
+      
+
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://rpubs.com/boughanmi97/covid_tun" target="_blank" rel="noopener">
+    <i class="fab fa-r-project mr-1"></i>View dashboard</a>
+
+
+      </div>
+
+    </div>
+    <div class="col-12 col-md-6 order-first ">
+      
+
+      
+        
+        
+        
+        <a href="/project/example4/" >
+          <img src="/project/example4/featured_hu108282ba2eb790c013ac312895bba8e8_116518_540x0_resize_q75_h2_lanczos_3.webp" height="242" width="540"
+              alt="Dashboard tracking Covid-19 in Tunisia" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+      </div>
+    
+
+  </div>
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="talks" class="home-section wg-collection  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Previous &amp; Recent Talks</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/progress-through-data-with-r/" >Progress Through data with R</a>
+    </div>
+
+    
+    <a href="/talk/progress-through-data-with-r/"  class="summary-link">
+      <div class="article-style">
+        Feedback from data science and scientific R consulting.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 19, 2023 7:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Paris</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/youtu.be/6qKE9NkN-Uc" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.meetup.com/fr-FR/rladies-paris/" target="_blank" rel="noopener">
+    <i class="fab fa-meetup mr-1"></i>Follow</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/talk/progress-through-data-with-r/" >
+        <img src="/talk/progress-through-data-with-r/featured_huc25d98e91a926992a67dd2310ea5c62a_343098_745ef3ea4fc4ec582658060a87750aca.webp" height="113" width="150"
+            alt="Progress Through data with R" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/r-ladies-tunis-a-local-chapter-of-r-ladies-global/" >R-Ladies Tunis a local chapter of R-Ladies Global</a>
+    </div>
+
+    
+    <a href="/talk/r-ladies-tunis-a-local-chapter-of-r-ladies-global/"  class="summary-link">
+      <div class="article-style">
+        I was invited by the RTCI Tunisian Radio to present R Ladies Tunis with  the co-founder Mouna Belaid.It&rsquo;s a local chapter of R-Ladies Global (<a href="https://www.rladies.org" target="_blank" rel="noopener">https://www.rladies.org</a>). Now with Mouna Belaid we are the organizors of R-Ladies Paris.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Aug 19, 2020 7:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Tunis</span>
+        
+      </div>
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/youtu.be/khSSNFPEEok" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.meetup.com/rladies-tunis/" target="_blank" rel="noopener">
+    <i class="fab fa-meetup mr-1"></i>Follow</a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/talk/r-ladies-tunis-a-local-chapter-of-r-ladies-global/" >
+        <img src="/talk/r-ladies-tunis-a-local-chapter-of-r-ladies-global/featured_hub15f44dc365548f025dd70d0ea14d037_184688_7a37bcf6f292519296bc62eaebfbd4c1.webp" height="82" width="150"
+            alt="R-Ladies Tunis a local chapter of R-Ladies Global" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+
+  
+  
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="pub" class="home-section wg-collection  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Papers</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/journal-article/" >Heart disease classification</a>
+    </div>
+
+    
+    <a href="/publication/journal-article/"  class="summary-link">
+      <div class="article-style">
+        Creation of a neural network-based cardiovascular disease prediction model from a Cleveland database.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Chaïma Boughanmi</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="my very first project, when I was a baby"></i>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/www.academia.edu/41384468/Classification_des_maladies_cardiaques" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/publication/journal-article/" >
+        <img src="/publication/journal-article/featured_hu66cf8ef4ff0d7326e912c6ef1b168158_327365_85ce1d92aea682809351d5ea614cf196.webp" height="104" width="150"
+            alt="Heart disease classification" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/preprint/" >Cost of living worldwide</a>
+    </div>
+
+    
+    <a href="/publication/preprint/"  class="summary-link">
+      <div class="article-style">
+        A simple linear regression performed on a database taken from a study by Mercer in 2017.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Chaïma Boughanmi</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/www.academia.edu/41384298/Le_co%C3%BBt_de_vie_dans_le_Monde" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/publication/preprint/" >
+        <img src="/publication/preprint/featured_hu6345fa4a56e16c5f8b58a9ba986cd1b8_285787_a804803d1a33fbb55f66fddeac388d1c.webp" height="107" width="150"
+            alt="Cost of living worldwide" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+
+  
+  
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="gallery" class="home-section wg-markdown  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  justify-content-center">
+    
+      
+        <div class="section-heading col-12 mb-3 text-center">
+          <h1 class="mb-0">Gallery</h1>
+          <p class="mt-1">Each photo tells a story that has marked my life</p>
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+  <div class="col-12">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery-grid">
+
+  
+  
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/A.PNG" >
+      <img src="/media/albums/demo/A_hu63ae0d506f5eea54a9c9cb1e323af0eb_343133_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="A.PNG" width="386" height="486">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/B.jpg" >
+      <img src="/media/albums/demo/B_hucc76c6f52793a0867d8aa2d88f4db059_38873_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="B.jpg" width="502" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/C.jpg" >
+      <img src="/media/albums/demo/C_hu169dccd5bc23962a61fcc918b76246fd_16074_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="C.jpg" width="720" height="480">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/D.JPG" >
+      <img src="/media/albums/demo/D_huaa59d838a897e9d0f3c06cc0f3cb6b95_312636_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="D.JPG" width="562" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/E.jpg" >
+      <img src="/media/albums/demo/E_hufe80cf8459c1a423ac8f57425d171206_170195_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="E.jpg" width="477" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/F.jpg" >
+      <img src="/media/albums/demo/F_hucae01589c6684ed4547aea3c00cb7713_106029_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="F.jpg" width="708" height="442">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/G.jpg" >
+      <img src="/media/albums/demo/G_hua6751f5e64ad9458dc3dbe694a93d222_178496_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="G.jpg" width="407" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/H.jpg" >
+      <img src="/media/albums/demo/H_huc26a556f2370ac841902accd629b568f_769059_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="H.jpg" width="499" height="750">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/I.jpg" >
+      <img src="/media/albums/demo/I_hudc4e55517f136040649b985bdb245b0b_1897783_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="I.jpg" width="750" height="451">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/J.jpeg" >
+      <img src="/media/albums/demo/J_hu0364ca10ef964652ff8ba959b9b219d8_312654_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="J.jpeg" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/K.jpeg" >
+      <img src="/media/albums/demo/K_huc25d98e91a926992a67dd2310ea5c62a_343098_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="K.jpeg" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/L.jpg" >
+      <img src="/media/albums/demo/L_hucdc9920ee39c8d601a15f8aade90cac4_248594_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="L.jpg" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/M.jpeg" >
+      <img src="/media/albums/demo/M_huca124d5269d0dad389ad7cb9f609820c_401348_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="M.jpeg" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/N.jpeg" >
+      <img src="/media/albums/demo/N_hu796580561dd1020383755e7e2b170dfd_392343_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="N.jpeg" width="750" height="563">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/O.jpg" >
+      <img src="/media/albums/demo/O_hu8b0df531baebf191be6831207df3ad3c_113519_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="O.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/P.jpg" >
+      <img src="/media/albums/demo/P_hu4e208e0a4dda26872981603ada766327_65074_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="P.jpg" width="500" height="417">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/Q.jpg" >
+      <img src="/media/albums/demo/Q_huf5d274d3878380e5a0f5ef3a1745cf47_130519_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="Q.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+    
+    
+    
+    
+    
+  
+  
+  <div class="gallery-item gallery-item--medium">
+    <a data-fancybox="gallery-demo" href="/media/albums/demo/R.jpg" >
+      <img src="/media/albums/demo/R_hu78c49d0a970a9905e09e383aa74e7b4c_168518_750x750_fit_q75_h2_lanczos.webp" loading="lazy" alt="R.jpg" width="750" height="500">
+    </a>
+  </div>
+  
+
+</div>
+
+
+  </div>
+
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="section-tag_cloud" class="home-section wg-tag-cloud  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Popular Topics</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    <div class="tag-cloud">
+      
+        
+        
+        
+        <a href="/tag/cnn/" style="font-size:0.8rem">CNN</a>
+      
+        
+        
+        
+        <a href="/tag/energy-data/" style="font-size:0.8rem">Energy Data</a>
+      
+        
+        
+        
+        <a href="/tag/flexdashboard/" style="font-size:0.8rem">Flexdashboard</a>
+      
+        
+        
+        
+        <a href="/tag/keras/" style="font-size:0.8rem">Keras</a>
+      
+        
+        
+        
+        <a href="/tag/markdown/" style="font-size:0.8rem">Markdown</a>
+      
+        
+        
+        
+        <a href="/tag/python/" style="font-size:2.3270154828966763rem">Python</a>
+      
+        
+        
+        
+        <a href="/tag/r/" style="font-size:1.4576497722987207rem">R</a>
+      
+        
+        
+        
+        <a href="/tag/r-framework/" style="font-size:0.8rem">R framework</a>
+      
+        
+        
+        
+        <a href="/tag/shiny/" style="font-size:0.8rem">shiny</a>
+      
+        
+        
+        
+        <a href="/tag/sql/" style="font-size:0.8rem">SQL</a>
+      
+    </div>
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+  
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="contact" class="home-section wg-contact  "  >
+ <div class="home-section-bg " >
+   
+ </div>
+  <div class="container">
+
+  
+    <div class="row  ">
+    
+      
+        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+          <h1 class="mb-0">Contact me</h1>
+          
+        </div>
+      
+    
+  
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+
+    
+    
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" netlify netlify-honeypot="_gotcha"  >
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        
+        <div class="d-none">
+          <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
+        </div>
+        
+        <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
+      </form>
+    </div>
+  
+
+  <ul class="fa-ul">
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+  
+    </div>
+  
+
+  </div>
+</section>
+
+  
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 Chaima Boughanmi
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.938a3a7554cd9f6602290411f64d2617.js"></script>
+
+
+
+
+  
+    <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+  
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":false}</script>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.62586ca65ca61821fe707eb9fa6268b7.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9137013a66774049159934c29c3f0205.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

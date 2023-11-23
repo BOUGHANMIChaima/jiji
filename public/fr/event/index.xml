@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Les précédents et les récents talks | Chaïma Boughanmi</title>
+    <link>/fr/event/</link>
+      <atom:link href="/fr/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Les précédents et les récents talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Thu, 19 Oct 2023 19:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Les précédents et les récents talks</title>
+      <link>/fr/event/</link>
+    </image>
+    
+    <item>
+      <title>Progression à travers les données avec R</title>
+      <link>/fr/talk/progression-a-travers-les-donnees-avec-r/</link>
+      <pubDate>Thu, 19 Oct 2023 19:00:00 +0000</pubDate>
+      <guid>/fr/talk/progression-a-travers-les-donnees-avec-r/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Video&lt;/strong&gt; button above to view the full talk of the participants.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Tunis une section locale de R-Ladies Global</title>
+      <link>/fr/talk/r-ladies-tunis-une-section-locale-de-r-ladies-global/</link>
+      <pubDate>Wed, 19 Aug 2020 19:00:00 +0000</pubDate>
+      <guid>/fr/talk/r-ladies-tunis-une-section-locale-de-r-ladies-global/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Cliquez sur le bouton &lt;strong&gt;Vidéo&lt;/strong&gt; ci-dessus pour voir l&amp;rsquo;intervention complète des participantes.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

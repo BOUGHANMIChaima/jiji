@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Chaïma Boughanmi</title>
+    <link>/fr/tag/r/</link>
+      <atom:link href="/fr/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>R</title>
+      <link>/fr/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Shiny application for the energy sector</title>
+      <link>/fr/project/exemple5/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/exemple5/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Creation of &lt;strong&gt;SQL&lt;/strong&gt; queries to extract data from various departmental databases.&lt;/li&gt;
+&lt;li&gt;Processing and &lt;strong&gt;analysis&lt;/strong&gt; of data needed to improve the planning process.&lt;/li&gt;
+&lt;li&gt;Creation, &lt;strong&gt;publication&lt;/strong&gt; and documentation of an interactive dashboard using &lt;strong&gt;R shiny&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Classification&lt;/strong&gt; of works and accuracy of consumption using &lt;strong&gt;machine learning&lt;/strong&gt; algorithms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The data is fictitious and the preview is fuzzy for confidential reasons.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ShortPath</title>
+      <link>/fr/project/example/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/example/</guid>
+      <description>&lt;p&gt;ShortPath is an R package for determining the shortest path on a graph from a source vertex using two algorithms: the Bellman-Ford algorithm and the Dijkstra algorithm.&lt;/p&gt;
+&lt;p&gt;In particular, this package can be used to determine the shortest path on a graph within the unit square, whose starting vertex has coordinates (0,0) and whose ending vertex has coordinates (1,1).&lt;/p&gt;
+&lt;p&gt;An example of the application of these algorithms is seam carving. This is an image resizing algorithm developed by Shai AVIDAN and Ariel SHAMIR, which resizes the image by removing so-called low-energy pixel paths.
+The package includes several functions.&lt;/p&gt;
+&lt;p&gt;See the full description by clicking the link above.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Tunis une section locale de R-Ladies Global</title>
+      <link>/fr/talk/r-ladies-tunis-une-section-locale-de-r-ladies-global/</link>
+      <pubDate>Wed, 19 Aug 2020 19:00:00 +0000</pubDate>
+      <guid>/fr/talk/r-ladies-tunis-une-section-locale-de-r-ladies-global/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Cliquez sur le bouton &lt;strong&gt;Vidéo&lt;/strong&gt; ci-dessus pour voir l&amp;rsquo;intervention complète des participantes.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

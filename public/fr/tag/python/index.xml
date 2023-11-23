@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Chaïma Boughanmi</title>
+    <link>/fr/tag/python/</link>
+      <atom:link href="/fr/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>/fr/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Fall detection using Machine Learning</title>
+      <link>/fr/project/example2/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/example2/</guid>
+      <description>&lt;p&gt;The aim of this project is to study the performance of several machine learning algorithms in automatically detecting falls thanks to the indicators provided. To achieve this, we will follow the following steps using Python programming: Naive Bayes- Naive Bayes Classifier &amp;ndash; LDA : Linear Discriminant Analysis &amp;ndash; QDA: Quadratic Discriminant Analysis &amp;ndash; Logistic regression &amp;ndash; KNN- K nearest neighbors &amp;ndash; Decision Tree- Decision Tree &amp;ndash; Random Forest&amp;ndash; AdaBoost &amp;ndash; Gradient Boosting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crypto-prediction</title>
+      <link>/fr/project/external-project/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/external-project/</guid>
+      <description>&lt;p&gt;This is an artificial intelligence challenge I took part in on Kaggle . Using repisotory &lt;a href=&#34;https://github.com/manthanthakker/BitcoinPrediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/manthanthakker/BitcoinPrediction&lt;/a&gt; for inspiration, it presents implementations of machine learning algorithms (Random Forest, regression, etc.) and recurrent neural networks/long-term memory networks for BitCoin prediction. Furthermore, in our case, we have identified that BitCoin is the most important currency, as most other digital currencies will closely follow its trends. So having an accurate BitCoin prediction model should be an essential part of the project.&lt;/p&gt;
+&lt;p&gt;After importing the data obtained from Kaggle from our database, which contains historical information on several cryptocurrencies such as Bitcoin and Ethereum, I moved on to the data preparation and cleaning stage.&lt;/p&gt;
+&lt;p&gt;The next step is to deal with the missing values, rather in the difference in timestamp intervals. I started by extracting each cryptocurrency with its corresponding timestamps, visualizing them to better detect the differences and then imputing each missing value by the average of the value before and the value after.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recognition-of-written-languages</title>
+      <link>/fr/project/example3/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/example3/</guid>
+      <description>&lt;p&gt;Language modeling is a field where unsupervised learning is widely applied, with text analysis and written language detection among the best-known applications. In this project, we want to be able to identify the language of a given text (French or English). To achieve this, we&amp;rsquo;re going to use a text data table in which each text has already been labeled by its language. Initially, the aim is to build several models characterizing the different languages, based on the frequency of appearance of symbols (letters) in each language, and then to compare the different models.
+Each exercise in the project will involve : &lt;br&gt;
+¤ Choose a model &lt;br&gt;
+¤ Estimating its parameters &lt;br&gt;
+¤ Program it and comment on the results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

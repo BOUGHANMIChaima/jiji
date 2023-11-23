@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny | Chaïma Boughanmi</title>
+    <link>/fr/tag/shiny/</link>
+      <atom:link href="/fr/tag/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>shiny</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>shiny</title>
+      <link>/fr/tag/shiny/</link>
+    </image>
+    
+    <item>
+      <title>Shiny application for the energy sector</title>
+      <link>/fr/project/exemple5/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/fr/project/exemple5/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Creation of &lt;strong&gt;SQL&lt;/strong&gt; queries to extract data from various departmental databases.&lt;/li&gt;
+&lt;li&gt;Processing and &lt;strong&gt;analysis&lt;/strong&gt; of data needed to improve the planning process.&lt;/li&gt;
+&lt;li&gt;Creation, &lt;strong&gt;publication&lt;/strong&gt; and documentation of an interactive dashboard using &lt;strong&gt;R shiny&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Classification&lt;/strong&gt; of works and accuracy of consumption using &lt;strong&gt;machine learning&lt;/strong&gt; algorithms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    The data is fictitious and the preview is fuzzy for confidential reasons.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

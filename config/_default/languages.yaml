@@ -1,0 +1,46 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+fr:
+ languageCode: fr
+ contentDir: content/fr
+ title: 
+ params:
+   description: 
+ menu:
+   main:
+    - name: Biographie
+      url: '#about'
+      weight: 10
+    - name: Compétences
+      url: '#skills'
+      weight: 20
+    - name: Expériences
+      url: '#experiences'
+      weight: 30
+    - name: Certificats
+      url: '#accomplishments'
+      weight: 40
+    - name: Projets
+      url: '#projects'
+      weight: 50
+    - name: Talks
+      url: '#talks'
+      weight: 60
+    - name: Publications
+      url: '#pub'
+      weight: 70
+    - name: Gallerie
+      url: '#gallery'
+      weight: 80
+    - name: Contact
+      url: '#contact'
+      weight: 90
