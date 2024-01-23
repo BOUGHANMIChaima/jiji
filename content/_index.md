@@ -309,7 +309,7 @@ sections:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     title: Contact me
   design:
