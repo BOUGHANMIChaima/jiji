@@ -3,7 +3,7 @@ title: "Classification des maladies cardiaques"
 authors:
 - admin
 author_notes:
-- "mon tout premier projet, quand j'étais bébé Data Analyst"
+- "Mon tout premier projet, quand j'étais bébé Data Analyst"
 date: "2019-04-20T00:00:00Z"
 doi: ""
 
