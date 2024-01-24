@@ -3,7 +3,7 @@ title: "Heart disease classification"
 authors:
 - admin
 author_notes:
-- "my very first project, when I was a baby"
+- "My very first project, when I was a baby Data Analyst"
 date: "2019-04-20T00:00:00Z"
 doi: ""
 
