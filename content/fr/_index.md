@@ -127,7 +127,7 @@ sections:
       description: |2-
          * **Analyser** : **Marketing Mix Modeling**, **ROI** et études de marché : quantifier les effets passés et futurs des décisions, **estimer** la valeur des actifs incorporels.
          * **Modéliser** : Modélisation tridimensionnelle : mathématique pour relier tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
-         * **Deployement et visualisation** : Business Visualisation, des tableaux de bords et des présentations.
+         * **Déploiement et visualisation** : Business Visualisation, des tableaux de bords et des présentations.
       location: Paris
       title: Data Scientist & Business Modélisateur
     - company: Rte
