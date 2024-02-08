@@ -187,8 +187,8 @@ sections:
       date_end: '2020-08-31'
       description: |2-
         * Collecte de données (dans différents domaines : politique, panel, migration et différents types) et nettoyage des données à l'aide du **langage R**.
-        * Analyser les données et créer des **graphiques explicatifs**.
-        * Calcul des indicateurs et mise en place de **tableaux de bord brillants**.
+        * Analyse des données et création de **graphiques explicatifs**.
+        * Calcul des indicateurs et mise en place de **tableaux de bord R shiny**.
   design:
     columns: "2"
     
