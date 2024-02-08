@@ -186,9 +186,14 @@ sections:
       date_start: "2020-07-01"
       date_end: '2020-08-31'
       description: |2-
-        * Collecte de données (dans différents domaines : politique, panel, migration et différents types) et nettoyage des données à l'aide du **langage R**.
-        * Analyse des données et création de **graphiques explicatifs**.
-        * Calcul des indicateurs et mise en place de **tableaux de bord R shiny**.
+        * Etude KAP sur la petite enfance en Tunisie : 
+En partenariat avec l’UNICEF , la Tunisie a eu recours à la réalisation d’une enquête KAP pour l’éducation parentale (2018) en relation avec la Stratégie Nationale Multisectorielle pour le Développement de la Petite Enfance.
+Mes missions étaient :
+        * Collecte de données (dans différents domaines : politique, panel, migration et différents types) et nettoyage des données à l’aide du langage R.
+        * Calcul des indicateurs, évaluation et analyse des connaissances et des pratiques des parents tunisiens 
+en matière de nutrition, de santé, d’éducation des petits enfants. 
+        * Implémentation d’un Dashboard représentatif des meilleurs résultats en utilisant **R shiny**.
+        
   design:
     columns: "2"
     
