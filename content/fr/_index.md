@@ -188,7 +188,7 @@ sections:
       description: |2-
          * Collecte de données (dans différents domaines : politique, panel, migration et différents types) et nettoyage des données à l’aide du langage R.
          * Analyser les données et créer des graphiques explicatifs.
-         * Calcul des indicateurs et mise en place de tableaux de bord brillants.
+         * Calcul des indicateurs et mise en place de tableaux de bord **R shiny**.
         
   design:
     columns: "2"
