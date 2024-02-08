@@ -114,7 +114,7 @@ sections:
       date_end: ""
       date_start: "2023-09-01"
       description: |2-
-         * Contribuer à l'organisation de conférences et d'ateliers en utilisant le **language R**.
+         * Contribuer à l'organisation de conférences et d'ateliers en utilisant le **langage R**.
          * Faire des posters, communiquer et publier nos événements et matériels (enregistrements, codes, diapositives) sur nos réseaux sociaux.
         * Contacter et accueillir des conférenciers et des formateurs pour promouvoir l'utilisation de la langue R dans le monde entier.
       location: Paris
