@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: link
+  - icon: address-card
     icon_pack: fab
     name: Visit site
     url: https://chaimabgh.netlify.app/
