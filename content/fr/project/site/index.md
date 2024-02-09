@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
+  - icon: link
     icon_pack: fab
     name: Visit site
     url: https://chaimabgh.netlify.app/
