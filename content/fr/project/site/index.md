@@ -2,7 +2,8 @@
 title: Site web personnel
 summary: Site web personnel développé  avec le langage R. 
 tags:
-  - R / R markdown
+  - R
+  - R markdown
   - github
 date: '2022-01-22T00:00:00Z'
 
