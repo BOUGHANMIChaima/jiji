@@ -16,7 +16,7 @@ image:
 
 links:
   - icon: address-card
-    icon_pack: fab
+    icon_pack: fas
     name: Visit site
     url: https://chaimabgh.netlify.app/
 url_code: ''
