@@ -8,7 +8,7 @@ tags:
 date: '2022-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://chaimabgh.netlify.app/'
+external_link: ''
 
 image:
   caption: Photo du site
