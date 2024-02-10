@@ -136,7 +136,7 @@ sections:
       date_start: "2022-04-04"
       date_end: "2022-10-31"
       description: |2-
-      Data Science appliquée au processus de planification des travaux : créer de la valeur par
+        Data Science appliquée au processus de planification des travaux : créer de la valeur par
 l'exploration et l'analyse de données brutes :
         * Création de requêtes **SQL** pour extraire des données de diverses bases de données départementales.
         * Traitement et analyse des données nécessaires à l'amélioration du 'processus de planification'.
