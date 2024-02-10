@@ -8,15 +8,15 @@ tags:
 date: '2022-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://chaimabgh.netlify.app/'
+external_link: ''
 
 image:
   caption: Photo of my site
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
+  - icon: address-card
+    icon_pack: fas
     name: Visit site
     url: https://chaimabgh.netlify.app/
 url_code: ''
