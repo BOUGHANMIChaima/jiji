@@ -34,3 +34,4 @@ url_video: ''
 
 Site personnel développé  avec le langage R et R markdown en utilisant essentiellement le package blogdown, ensuite déployé en ligne avec github.
 L'objectif c'est de créer une version dynamique et attractive de mon CV pour présenter toutes mes expériences, ma formation, mes projets et mes compétences.
+N'hésitez pas à me donner votre avis en me contactant grâce au menu contact figurant à la fin de mon site.
