@@ -135,7 +135,8 @@ sections:
       company_url: "https://www.rte-france.com/"
       date_start: "2022-04-04"
       date_end: "2022-10-31"
-      description: |2-  
+      description: |2-
+        Data Science applied to the planning process: creating value through exploration and analysis of brute data: 
         * Creation of **SQL** queries to extract data from various department databases.
         * Processing and analysis of data required to improve the 'planning process'.
         * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
