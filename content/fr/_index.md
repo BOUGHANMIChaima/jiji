@@ -129,7 +129,7 @@ sections:
          * **Modéliser** : Modélisation tridimensionnelle : mathématique pour relier tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
          * **Déploiement et visualisation** : Business Visualisation, des tableaux de bords et des présentations.
       location: Paris
-      title: Data Scientist & Business Modélisateur
+      title: Data Scientist & Business Modeler
     - company: Rte
       company_logo: rte
       company_url: "https://www.rte-france.com/"
