@@ -66,7 +66,7 @@ sections:
           icon_pack: fas
         - name: Econométrie
           description: 70%
-          icon: <i class= chart-area
+          icon: chart-area
           icon_pack: fas
         - name: Data analyse
           description: 70%
