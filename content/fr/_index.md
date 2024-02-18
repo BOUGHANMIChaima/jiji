@@ -198,7 +198,7 @@ sections:
          Etude KAP sur la petite enfance en Tunisie : En partenariat avec l’UNICEF, la Tunisie a eu recours à la réalisation d’une enquête KAP pour l’éducation parentale (2018) en relation avec la Stratégie Nationale Multisectorielle pour le Développement de la Petite Enfance. Mes missions étaient :
          * Evaluation et analyse des connaissances et des pratiques des parents tunisiens en matière de nutrition, de santé, d’éducation des petits enfants.
          * Analyser les données et créer des graphiques explicatifs.
-         * Calcul des indicateurs et mise en place de [tableau de bord]([https://pages.github.com/](https://boughanmi-chaima.shinyapps.io/121KAP2018/) de bord **R shiny**.        
+         * Calcul des indicateurs et mise en place de [tableau de bord]([https://pages.github.com/](https://boughanmi-chaima.shinyapps.io/121KAP2018/)) de bord **R shiny**.        
   design:
     columns: "2"
     
