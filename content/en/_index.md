@@ -128,7 +128,7 @@ sections:
       location: Paris
       title: Volunteer organizer
       
-    - company: BVA xsight
+    - company: BVA Xsight
       company_logo: bva
       company_url: "https://www.bva.fr/"
       date_start: "2022-11-07"
