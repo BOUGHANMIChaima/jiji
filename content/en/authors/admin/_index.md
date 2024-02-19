@@ -33,13 +33,13 @@ first_name: Chaïma
 last_name: Boughanmi
 
 organizations:
-- name: BVA xsight
+- name: BVA Xsight
   url: https://www.bva.fr/
 - name: R-Ladies Paris
   url: https://www.meetup.com/fr-FR/rladies-paris/
 
 # Role/position/tagline
-role: Data Scientist @ BVA xsight | R shiny developer <br /> Organizer @ R-Ladies Paris <br /> Paris France
+role: Data Scientist @ BVA Xsight | R shiny developer <br /> Organizer @ R-Ladies Paris <br /> Paris France
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
