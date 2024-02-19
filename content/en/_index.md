@@ -64,6 +64,10 @@ sections:
           description: 70%
           icon: chart-column
           icon_pack: fas
+        - name: Econometrics
+          description: 70%
+          icon: chart-area
+          icon_pack: fas
         - name: Data analysis
           description: 70%
           icon: chart-simple
