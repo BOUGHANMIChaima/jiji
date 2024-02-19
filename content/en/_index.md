@@ -196,7 +196,7 @@ sections:
       date_end: '2020-08-31'
       description: |2-
          KAP survey on early childhood in Tunisia: In partnership with UNICEF, Tunisia resorted to conducting a KAP survey for parenting education (2018) in connection with the National Multisectoral Strategy for Early Childhood Development. My missions were:
-        * Evaluation and **analysis** of Tunisian parents' knowledge and practices regarding nutrition, health and the education of young children..
+        * Evaluation and **analysis** of Tunisian parents' knowledge and practices regarding nutrition, health and the education of young children.
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of **R shiny dashboards**.
   design:
