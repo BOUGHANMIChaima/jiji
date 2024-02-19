@@ -60,7 +60,7 @@ sections:
           description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Modèles linéaires
+        - name: Linear models
           description: 70%
           icon: chart-column
           icon_pack: fas
