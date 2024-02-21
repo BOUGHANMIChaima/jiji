@@ -96,7 +96,7 @@ sections:
           description: 70%
           icon: git
           icon_pack: fab
-        - name: Overleaf
+        - name: Overleaf/Latex
           description: 85%
           icon: leaf
           icon_pack: fas
