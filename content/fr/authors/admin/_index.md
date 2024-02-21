@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: uploads/resume.pdf
 status:
   icon: ☕️
   
