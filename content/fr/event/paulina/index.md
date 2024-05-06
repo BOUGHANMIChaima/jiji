@@ -2,7 +2,7 @@
 title:  Epidemiologist R Handbook, a great resource for learning R and epidemiology/stats concepts
 
 event: R-Ladies Paris
-event_url: https://www.youtube.com/watch?v=GSPLnXbuKXk
+event_url: https://www.meetup.com/rladies-paris/events/300211960/
 
 location: Paris
 address:
