@@ -12,7 +12,7 @@ address:
   postcode: 
   country: France
 
-summary: Le manuel R de l'épidémiologiste est un manuel de référence R en libre accès pour les épidémiologistes appliqués et les praticiens de la santé publique, disponible en huit langues et utilisé 2,1 millions de fois par 650 000 personnes à ce jour. Il s'agit d'une ressource complète conçue pour aider à l'utilisation de R pour l'analyse, la visualisation et l'interprétation des données. Il convient aux personnes qui découvrent R, mais aussi aux utilisateurs R expérimentés, à la recherche de bonnes pratiques et d'astuces
+summary: Le manuel R de l'épidémiologiste est un manuel de référence R en libre accès pour les épidémiologistes appliqués et les praticiens de la santé publique, disponible en huit langues et utilisé 2,1 millions de fois par 650 000 personnes à ce jour. Il s'agit d'une ressource complète conçue pour aider à l'utilisation de R pour l'analyse, la visualisation et l'interprétation des données. Il convient aux personnes qui découvrent R, mais aussi aux utilisateurs R expérimentés, à la recherche de bonnes pratiques et d'astuces.
 
 
 # Talk start and end times.
