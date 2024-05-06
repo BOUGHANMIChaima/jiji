@@ -2,7 +2,7 @@
 title:  Venez nous rencontrer à Paris pour une soirée d’apprentissage et d’échange
 
 event: R-Ladies Paris
-event_url: https://www.meetup.com/rladies-paris/events/300024707/
+event_url: https://www.meetup.com/rladies-paris/events/300044860/
 
 location: Paris
 address:
