@@ -206,6 +206,15 @@ sections:
       title: Statistics in the service of road safety
       url: ""
       company_logo: who
+    - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
+      date_end: ""
+      date_start: "2021-08-17"
+      description: "Animating the practical part of the training session for managers of the National Road Safety Observatory using statistics and R programming."
+      organization: WHO
+      organization_url: https://www.who.int/
+      title: Statistics in the service of road safety
+      url: ""
+      company_logo: who
     - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
       date_end: ""
       date_start: "2020-01-01"
