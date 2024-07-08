@@ -200,8 +200,7 @@ sections:
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of [R shiny dashboards](https://boughanmi-chaima.shinyapps.io/121KAP2018/).
   design:
-    columns: "2"
-    
+    columns: "2"    
 - block: accomplishments
   id : accomplishment
   content:
