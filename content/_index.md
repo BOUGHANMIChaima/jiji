@@ -190,7 +190,7 @@ sections:
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of **R shiny dashboards**.
   design:
-    columns: "4"
+    columns: "2"
     
 - block: accomplishments
   id : accomplishements
