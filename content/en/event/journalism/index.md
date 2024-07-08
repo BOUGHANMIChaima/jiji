@@ -1,6 +1,5 @@
 ---
 title:  R for Data Journalism: From Data to Daily News
-
 event: R-Ladies Paris
 event_url: https://www.meetup.com/rladies-paris/events/301751988/
 
