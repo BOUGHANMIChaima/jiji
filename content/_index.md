@@ -190,7 +190,7 @@ sections:
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of **R shiny dashboards**.
   design:
-    columns: "2"
+    columns: "4"
     
 - block: accomplishments
   id : accomplishements
@@ -203,7 +203,7 @@ sections:
       description: "Sciences comportementales, Parcours marketing."
       organization: NUDGE
       organization_url: https://www.bvanudgeconsulting.com/
-      title: Statistics in the service of road safety
+      title: Sciences comportementales
       url: ""
       company_logo: nudge
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
