@@ -12,7 +12,8 @@ address:
   postcode: 
   country: Austria
 
-summary: J'ai donné une présentation préenregistrée en ligne pour la conférence useR, la conférence mondiale des utilisateurs de R, qui a eu lieu à  Salzbourg, en Autriche (ainsi que virtuellement) en juillet 2024.
+summary: J'ai donné une présentation préenregistrée en ligne pour la conférence useR, la conférence mondiale des utilisateurs de R, qui a eu lieu à  Salzbourg, en Autriche (ainsi que virtuellement) en juillet 2024. J'ai parlé au nom de 
+RLadies Paris avec comme thème Leveraging R-Ladies Paris Reach for Community Impact.
 
 
 
