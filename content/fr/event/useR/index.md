@@ -1,5 +1,5 @@
 ---
-title:  J'ai représenté R-Ladies Paris à la useR! Conférence de Juillet 2024 à Salzbourg en Autriche
+title:  J'ai représenté RLadies Paris à la useR! Conférence de Juillet 2024 à Salzbourg en Autriche
 
 event: R-Ladies Paris
 event_url: https://events.linuxfoundation.org/user/
