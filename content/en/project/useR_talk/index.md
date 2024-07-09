@@ -5,7 +5,7 @@ tags:
   - R
   - R-Ladies Paris
   - Community
-date: '2022-07-02T14:00:00Z'
+date: '2024-07-02T14:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
