@@ -1,5 +1,5 @@
 ---
-title: useR! Conf talk on behalf of Rladies Paris
+title: useR! Conf talk on behalf of R-Ladies Paris
 summary: I represented R-Ladies Paris at the useR! July 2024 Conference in Salzburg, Austria.
 tags:
   - R
