@@ -1,9 +1,11 @@
 ---
-title: useR Conf talk n behalf of Rladies Paris
+title: useR! Conf talk on behalf of Rladies Paris
 summary: I represented R-Ladies Paris at the useR! July 2024 Conference in Salzburg, Austria.
 tags:
   - R
-date: '2022-01-22T00:00:00Z'
+  - R-Ladies Paris
+  - Community
+date: '2022-07-02T14:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
