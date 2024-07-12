@@ -25,7 +25,7 @@ main:
   - name: Publications
     url: '#pub'
     weight: 70
-  - name: Gallerie
+  - name: Galerie
     url: '#gallery'
     weight: 80
   - name: Contact
