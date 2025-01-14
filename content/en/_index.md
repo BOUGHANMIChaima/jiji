@@ -137,7 +137,7 @@ sections:
          * Marketing Mix Modeling :  **Analysing** **Marketing Mix Modeling**, **ROI** Market Research, quantify the past and future effects of decisions, **estimate** the value of intangible assets. 3-dimensional **modeling**: mathematical to connect all the factors that explain business performance, financial to arbitrate, and visual to collaborate and mediate.
          * Implementation of Machine Learning models to solve customer issues : **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).
          * Implementing attribution models with **Markov chains**.
-         * Development of interactive graphs and dashboards with shiny.
+         * Development of interactive graphs and dashboards with **shiny**.
          * Exploring and implementing **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
          * Implementation of a **PySTAN** model using **Markov Chain Monte Carlo (MCMC)** to estimate **Bayesian** models. 
       location: Paris
