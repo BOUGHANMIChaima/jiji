@@ -122,9 +122,10 @@ sections:
       date_end: ""
       date_start: "2023-09-01"
       description: |2-
+         * Give talks and presentations on an R topic.
          * Help organize conferences and workshops using the **R language**.
          * Make posters, communicate and publish our events and materials (recordings, code, slides) on our social networks.
-        * Contact and host speakers and trainers to promote the use of the R language worldwide.
+         * Contact and host speakers and trainers to promote the use of the R language worldwide.
       location: Paris
       title: Volunteer organizer
       
