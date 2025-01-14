@@ -137,9 +137,9 @@ sections:
          1- Marketing Mix Modeling :
          * **Analysing** : **Marketing Mix Modeling**, **ROI** Market Research : quantify the past and future effects of decisions, **estimate** the value of intangible assets.
          * **Modelling** : 3-dimensional modeling: mathematical to connect all the factors that explain business performance, financial to arbitrate, and visual to collaborate and mediate.
-         * **Deploying and visualization** : Business Viz, dashboarding and presentation.
-         2- Implementation of Machine Learning models to solve customer issues :
-         * **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques). 
+         * **Deploying and visualization** : Business Viz, dashboarding and presentation. 
+         2- Implementation of Machine Learning models to solve customer issues : 
+         * **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).  
            
       location: Paris
       title: Data Scientist & Business Modeler
