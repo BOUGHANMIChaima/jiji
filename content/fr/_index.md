@@ -139,7 +139,7 @@ sections:
          * Implémentation des modèles d'attribution avec les **Chaînes de Markov**
          * Développement des graphs interactifs et des dashboard avec **Shiny.**
          * Explorer et implémenter les méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
-         * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chain (MCMC)** pour estimer des modèles **bayésiens**. 
+         * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**. 
       location: Paris
       title: Data Scientist & Business Modeler
     - company: Rte
