@@ -134,9 +134,12 @@ sections:
       company_url: "https://www.bva.fr/"
       date_start: "2022-11-07"
       description: |2-
-         * **Analyser** : **Marketing Mix Modeling**, **ROI** et études de marché : quantifier les effets passés et futurs des décisions, **estimer** la valeur des actifs incorporels.
-         * **Modéliser** : Modélisation tridimensionnelle : mathématique pour relier tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
-         * **Déploiement et visualisation** : Business Visualisation, des tableaux de bords et des présentations.
+         * **Marketing Mix Modeling** : Analyser le Marketing Mix Modeling, l'étude de marché, **ROI**, quantifier les effets passés et futurs des décisions, estimer la valeur des actifs intangibles. **Modélisation tridimensionnelle** : mathématique pour connecter tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
+         * Implémentation des modèles de **Machine learning** pour répondre à des problématiques clients : **les modèles d'attributions** (utilisation de Random Forest, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes). 
+         * Implémentation des modèles d'attribution avec les **Chaînes de Markov**
+         * Développement des graphs interactifs et des dashboard avec **Shiny.**
+         * Explorer et implémenter les méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
+         * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chain (MCMC)** pour estimer des modèles **bayésiens**. 
       location: Paris
       title: Data Scientist & Business Modeler
     - company: Rte
