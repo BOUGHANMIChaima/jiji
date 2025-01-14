@@ -139,7 +139,7 @@ sections:
          * Implementing attribution models with **Markov chains**.
          * Development of interactive graphs and dashboards with **shiny**.
          * Exploring and implementing **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
-         * Implementation of a **PySTAN** model using **Markov Chain Monte Carlo (MCMC)** to estimate **Bayesian** models. 
+         * Implementation of a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. 
       location: Paris
       title: Data Scientist & Business Modeler
     - company: Rte
