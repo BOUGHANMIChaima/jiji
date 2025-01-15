@@ -12,7 +12,7 @@ address:
   postcode: 
   country: France
 
-summary: During this Watch Party,I shared my personal experience of attending the 2024 posit::conf, held in Seattle in the USA, for the first time !!! We also watched replays of 2 selected presentations from the conference about Positron and Quarto.
+summary: During this Watch Party, I shared my personal experience of attending the 2024 posit::conf, held in Seattle in the USA, for the first time !!! We also watched replays of 2 selected presentations from the conference about Positron and Quarto.
 
 
 # Talk start and end times.
