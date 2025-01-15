@@ -33,7 +33,7 @@ url_source: 'https://drive.google.com/file/d/1oVSL1cDe5QrQ00DyWIMLD9mX0lmWLyYX/v
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'report's overview: [R-Ladies Paris](https://www.linkedin.com/in/r-ladies-paris/)'
+  caption: 'overview of the report: [R-Ladies Paris](https://www.linkedin.com/in/r-ladies-paris/)'
   focal_point: ""
   preview_only: false
 
