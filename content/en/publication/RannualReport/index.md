@@ -17,7 +17,7 @@ publication_types: ["report"]
 publication: ""
 publication_short: ""
 
-abstract: As the year comes to a close, it’s the perfect moment to reflect on our achievements through our 2024 Annual Report. Highlights from the report: 1-About us 2-Leadership team 3- Activities promoting R-Ladies Paris 4-Overview of our 2024 meetups.
+abstract: As the year comes to a close, it’s the perfect moment to reflect on our achievements through our 2024 Annual Report. Highlights from the report: About us, Leadership team, Activities promoting R-Ladies Paris and Overview of our 2024 meetups.
 
 # Summary. An optional shortened abstract.
 summary: R-Ladies Paris' achievements in 2024.
