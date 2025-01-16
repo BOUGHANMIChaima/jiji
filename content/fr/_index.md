@@ -77,11 +77,11 @@ sections:
           icon: chart-pie
           icon_pack: fas
         - name: Machine learning
-          description: 50%
+          description: 65%
           icon: brain
           icon_pack: fas
         - name: Marketing Mix Modeling
-          description: 70%
+          description: 75%
           icon: m
           icon_pack: fas
         - name: SQL
@@ -97,11 +97,11 @@ sections:
           icon: git
           icon_pack: fab
         - name: Overleaf/Latex
-          description: 85%
+          description: 90%
           icon: leaf
           icon_pack: fas
         - name: Microsoft office
-          description: 90%
+          description: 95%
           icon: microsoft
           icon_pack: fab
         - name: Jouer au foot & analyse de données sportives
