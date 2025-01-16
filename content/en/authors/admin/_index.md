@@ -79,7 +79,7 @@ title: Chaïma Boughanmi
 
 ---
 
-Chaïma BOUGHANMI is a junior data scientist at [BVA Xsight](https://www.bva.fr/) in Paris. Data science was the perfectly suited discipline
+Chaïma BOUGHANMI is a Data Scientist at [BVA Xsight](https://www.bva.fr/) in Paris. Data science was the perfectly suited discipline
 for her. She is an engineer in statistics and information analysis.
 She holds a master's degree in data science from [Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance) and a research master's degree in information processing and complexity of living systems.
 Very comfortable with numbers and statistics, she likes to give them meaning and see them have an impact on reality.
