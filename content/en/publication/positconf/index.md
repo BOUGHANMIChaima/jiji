@@ -1,5 +1,5 @@
 ---
-title: "My participation for the 1st time in the posit::conf 2024 in Seattle-USA, thanks to the scholarship I got"
+title: "My participation for the 1st time in the posit::conf 2024 in Seattle-USA, thanks to the scholarship I got !"
 authors:
 - admin
 author_notes:
