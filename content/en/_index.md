@@ -50,7 +50,7 @@ sections:
     items:
         - name: R / R shiny
           description:
-          percent: 90
+          value: 90
           icon: r-project
           icon_pack: fab
         - name: R Markdown
