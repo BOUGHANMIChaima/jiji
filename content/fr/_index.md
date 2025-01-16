@@ -235,7 +235,7 @@ sections:
       description: "J'ai suivi un programme de 3 mois de Sciences Comportementales Appliquées - Parcours Marketing."
       organization: BVA Nudge Consulting
       organization_url: https://www.bvanudgeconsulting.com/
-      title: B.E. Wiser Sciences Comportementales Appliquées - Parcous Marketing
+      title: B.E. Wiser Sciences Comportementales Appliquées
       url: ""
       company_logo: nn
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
