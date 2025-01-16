@@ -49,11 +49,13 @@ sections:
     username: admin
     items:
         - name: R / R shiny
-          description: 90%
+          description:
+          percent: 90
           icon: r-project
           icon_pack: fab
         - name: R Markdown
-          description: 85%
+          description:
+          percent: 85
           icon: markdown
           icon_pack: fab
         - name: Statistics
