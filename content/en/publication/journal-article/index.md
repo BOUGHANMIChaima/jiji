@@ -20,6 +20,7 @@ tags:
 - Python
 - Keras
 - CNN
+- Classification
 featured: false
 
 # links:
