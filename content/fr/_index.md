@@ -238,6 +238,15 @@ sections:
       title: Les statistiques au service de la sécurité routière
       url: ""
       company_logo: who
+    - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
+      date_end: ""
+      date_start: "2021-08-17"
+      description: "Animer la partie pratique de la formation pour  des cadres de l'Observatoire national de la sécurité routière à l'aide de statistiques et de la programmation R."
+      organization: WHO
+      organization_url: https://www.who.int/
+      title: Les statistiques au service de la sécurité routière
+      url: ""
+      company_logo: who
     - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
       date_end: ""
       date_start: "2020-01-01"
