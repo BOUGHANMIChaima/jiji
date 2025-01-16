@@ -21,7 +21,7 @@ tags:
 - Python community
 - R-Ladies 
 - PyLadies
-- Seattle, USA
+- Seattle USA
 
 featured: false
 
