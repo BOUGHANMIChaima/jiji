@@ -216,11 +216,11 @@ sections:
       date_start: "2024-11-13"
       description: "14 heures de formaion de prise de parole en public."
       organization: Symbiosis
-      organization_url: https://www.who.int/
+      organization_url: https://www.symbiosis-consultants.net/
       title: Développer son aisance à l'oral
       url: 
-      company_logo: symbio
-      icon: symbio
+      company_logo: ss
+      icon: ss
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
