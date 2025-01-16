@@ -20,8 +20,8 @@ tags:
 - R community
 - Python community
 - R-Ladies 
-- PyLadies
-- Seattle, USA
+- Py-Ladies
+- Seattle USA
 
 featured: false
 
