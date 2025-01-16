@@ -237,7 +237,7 @@ sections:
       organization_url: https://www.bvanudgeconsulting.com/
       title: B.E. Wiser Sciences Comportementales Appliquées - Parcous Marketing
       url: ""
-      company_logo: nudge
+      company_logo: nn
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
       date_end: ""
       date_start: "2021-08-17"
