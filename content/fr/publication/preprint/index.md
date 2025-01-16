@@ -24,6 +24,7 @@ summary: Une régression linéaire simple effectuée sur une base de données ti
 
 tags:
 - Python
+- Regression
 featured: false
 
 links:
