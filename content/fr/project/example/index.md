@@ -2,7 +2,8 @@
 title: ShortPath
 summary: Recherche du plus court chemin - Application à la réduction d'images et à la création de package R.
 tags:
-  - R, optimization
+  - R
+  - Optimization
 date: '2022-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
