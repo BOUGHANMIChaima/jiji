@@ -3,6 +3,7 @@ title: Recognition-of-written-languages
 summary: Using algorithms of unsupervised learning to recognize written languages.
 tags:
   - Python
+  - Natural Langage processing
 date: '2022-06-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
