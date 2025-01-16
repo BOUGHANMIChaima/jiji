@@ -3,9 +3,12 @@ title: Shiny application for the energy sector
 summary: Enhance the performance of the transmission system process through data analysis and machine learning.
 tags:
   - R
-  - shiny
+  - Shiny
   - SQL
+  - Git
+  - Data viz
   - Energy Data
+  - Public Sector
 date: '2022-09-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
