@@ -220,7 +220,7 @@ sections:
       title: Développer son aisance à l'oral
       url: 
       company_logo: symbio
-      icon : symbio
+      icon: hymaia
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
