@@ -4,7 +4,9 @@ summary: The case of Tunisia provides an overview of the 2019 Coronavirus COVID-
 tags:
   - R framework
   - Flexdashboard
-  - Markdown 
+  - Markdown
+  - Data Analysis
+  - Covid 19
 date: '2020-06-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
