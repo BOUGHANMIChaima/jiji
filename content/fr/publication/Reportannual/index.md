@@ -23,6 +23,7 @@ tags:
 - useR!
 - 2024
 - meetups
+- Shiny
 featured: false
 
 # links:
