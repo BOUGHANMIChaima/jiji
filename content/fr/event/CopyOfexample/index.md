@@ -23,7 +23,7 @@ all_day: false
 publishDate: '2020-08-20T00:00:00Z'
 
 authors: []
-tags: [R]
+tags: [R] [R community]
 
 # Is this a featured talk? (true/false)
 featured: false
