@@ -210,6 +210,16 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
+      date_end: ""
+      date_start: "2024-10-10"
+      description: "14 hours of training in generative AI and LLM."
+      organization: Hymaïa
+      organization_url: https://www.hymaia.com/
+      title: Generative IA & LLM
+      url: 
+      company_logo: hymaia
+      icon : hymaia
     - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
       date_start: "2024-06-01"
