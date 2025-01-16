@@ -229,15 +229,15 @@ sections:
       title: Les statistiques au service de la sécurité routière
       url: ""
       company_logo: who
-    - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
+    - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
-      date_start: "2021-08-17"
-      description: "Animer la partie pratique de la formation pour  des cadres de l'Observatoire national de la sécurité routière à l'aide de statistiques et de la programmation R."
-      organization: WHO
-      organization_url: https://www.who.int/
-      title: Les statistiques au service de la sécurité routière
+      date_start: "2024-06-01"
+      description: "J'ai suivi un programme de 3 mois de Sciences Comportementales Appliquées - Parcours Marketing."
+      organization: BVA Nudge Consulting
+      organization_url: https://www.bvanudgeconsulting.com/
+      title: B.E. Wiser Sciences Comportementales Appliquées - Parcous Marketing
       url: ""
-      company_logo: who
+      company_logo: nudge
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
       date_end: ""
       date_start: "2021-08-17"
