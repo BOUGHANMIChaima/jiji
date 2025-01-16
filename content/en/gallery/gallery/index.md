@@ -1,5 +1,5 @@
 
  gallery_item:
   - album: demo
-    image: A.jpg
-    caption: Write your image 1 caption here
+    image: IMG_8054.jpg
+    caption: Posit conf for the first time in Seattle USA
