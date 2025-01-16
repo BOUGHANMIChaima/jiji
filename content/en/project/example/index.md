@@ -2,7 +2,7 @@
 title: ShortPath
 summary: Searching for the shortest path - Application to image reduction and R package creation.
 tags:
-  - R
+  - R, optimization
 date: '2022-01-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
