@@ -220,15 +220,15 @@ sections:
       title: Les statistiques au service de la sécurité routière
       url: ""
       company_logo: who
-    - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
+    - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
-      date_start: "2021-08-17"
-      description: "Animer la partie pratique de la formation pour  des cadres de l'Observatoire national de la sécurité routière à l'aide de statistiques et de la programmation R."
-      organization: WHO
-      organization_url: https://www.who.int/
-      title: Les statistiques au service de la sécurité routière
+      date_start: "2024-10-10"
+      description: "14 heures de formaions en IA générative et LLM."
+      organization: Hymaïa
+      organization_url: https://www.hymaia.com/
+      title: enerative IA & LLM
       url: ""
-      company_logo: who
+      company_logo: hymaia
     - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
       date_start: "2024-06-01"
