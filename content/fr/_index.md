@@ -219,7 +219,7 @@ sections:
       organization_url: https://www.who.int/
       title: Développer son aisance à l'oral
       url: 
-      company_logo: symbio
+      company_logo: who
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
@@ -247,6 +247,16 @@ sections:
       title: Les statistiques au service de la sécurité routière
       url: ""
       company_logo: who
+   - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
+      date_end: ""
+      date_start: "2020-01-01"
+      description:
+      organization: Data camp
+      organization_url: https://www.datacamp.com/
+      title: Introduction au Deep Learning avec Keras
+      company_logo: datacamp
+      icon : datacamp
+      url: 
     - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
       date_end: ""
       date_start: "2020-01-01"
