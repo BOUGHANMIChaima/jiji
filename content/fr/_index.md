@@ -238,6 +238,7 @@ sections:
       title: BE Wiser 
       url: 
       company_logo: nn
+      icon : nn
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
       date_end: ""
       date_start: "2021-08-17"
@@ -246,17 +247,7 @@ sections:
       organization_url: https://www.who.int/
       title: Les statistiques au service de la sécurité routière
       url: ""
-      company_logo: who
-   - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
-      date_end: ""
-      date_start: "2020-01-01"
-      description:
-      organization: Data camp
-      organization_url: https://www.datacamp.com/
-      title: Introduction au Deep Learning avec Keras
-      company_logo: datacamp
-      icon : datacamp
-      url: 
+      company_logo: who 
     - certificate_url: https://drive.google.com/file/d/13zrgBWyMPHHSJ2ljrFCzqh57cUbktxEa/view?usp=sharing
       date_end: ""
       date_start: "2020-01-01"
