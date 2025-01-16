@@ -2,7 +2,7 @@
 title: Détection des chutes à l'aide de l'apprentissage automatique
 summary: Utilisation des algorithmes d'apprentissage automatique et comparaison des résultats.
 tags:
-  - Python
+  - Python, KNN, Decision Tree, Random Forest, Gradient Boosting
 date: '2022-07-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
