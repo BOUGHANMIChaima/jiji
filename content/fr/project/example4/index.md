@@ -4,7 +4,9 @@ summary: Ce dashboard onne un aperçu de l'épidémie 2019 de Coronavirus COVID-
 tags:
   - R framework
   - Flexdashboard
-  - Markdown 
+  - Markdown
+  - Data Analysis
+  - Covid 19
 date: '2020-06-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
