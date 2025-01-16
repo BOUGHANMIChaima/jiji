@@ -1,8 +1,12 @@
 ---
-title: Crypto-prediction
+title: Crypto-monnaies prediction
 summary: Prédiction du prix des crypto-monnaies.
 tags:
   - Python
+  - Crypto prediction
+  - Random Forest
+  - Regression
+  - Time series
 date: "2022-06-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
