@@ -50,43 +50,52 @@ sections:
     items:
         - name: R / R shiny
           description: 
-          progress: 95
+          percent: 90
           icon: r-project
           icon_pack: fab
         - name: R Markdown
-          description: 85%
+          description: 
+          percent: 85
           icon: markdown
           icon_pack: fab
         - name: Statistics
-          description: 80%
+          description: 
+          percent: 80
           icon: chart-line
           icon_pack: fas
         - name: Linear models
-          description: 70%
+          description:
+          percent: 70
           icon: chart-column
           icon_pack: fas
         - name: Econometrics
-          description: 70%
+          description:
+          percent: 70
           icon: chart-area
           icon_pack: fas
         - name: Data analysis
-          description: 70%
+          description:
+          percent: 70
           icon: chart-simple
           icon_pack: fas
         - name: Data visualization
-          description: 70%
+          description:
+          percent: 70
           icon: chart-pie
           icon_pack: fas
         - name: Machine learning
-          description: 50%
+          description:
+          percent: 65
           icon: brain
           icon_pack: fas
         - name: Marketing Mix Modeling
-          description: 70%
+          description:
+          percent: 75
           icon: m
           icon_pack: fas
         - name: SQL
-          description: 65%
+          description:
+          percent: 65
           icon: database
           icon_pack: fas
         - name: Python
@@ -95,19 +104,23 @@ sections:
           icon: python
           icon_pack: fab
         - name: Git
-          description: 70%
+          description:
+          percent: 70
           icon: git
           icon_pack: fab
         - name: Overleaf/Latex
-          description: 85%
+          description: 90
+          percent: 90
           icon: leaf
           icon_pack: fas
         - name: Microsoft office
-          description: 90%
+          description:
+          percent: 95
           icon: microsoft
           icon_pack: fab
         - name: Playing football & Sport Analytics
-          description: 85%
+          description: 
+          percent: 85
           icon: futbol
           icon_pack: fas
   design:
