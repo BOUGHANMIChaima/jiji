@@ -218,8 +218,8 @@ sections:
       organization_url: https://www.symbiosis-consultants.net/
       title: Develop speaking skills
       url: 
-      company_logo: symbio
-      icon: symbio
+      company_logo: ss
+      icon: ss
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
