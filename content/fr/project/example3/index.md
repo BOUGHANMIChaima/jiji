@@ -3,6 +3,7 @@ title: Reconnaissance des langues écrites
 summary: Utilisation d'algorithmes d'apprentissage non supervisé pour reconnaître les langues écrites.
 tags:
   - Python
+  - Natural Language processing (NLP)
 date: '2022-06-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
