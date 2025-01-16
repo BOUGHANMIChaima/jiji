@@ -50,7 +50,7 @@ sections:
     items:
         - name: R / R shiny
           description: 
-          progress: 95
+          progress = 95
           icon: r-project
           icon_pack: fab
         - name: R Markdown
