@@ -4,7 +4,8 @@ summary: I represented R-Ladies Paris at the useR! July 2024 Conference in Salzb
 tags:
   - R
   - R-Ladies Paris
-  - Community
+  - R community
+  - useR! Conf
 date: '2024-07-02T14:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
