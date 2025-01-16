@@ -22,6 +22,7 @@ tags:
 - R-Ladies 
 - Py-Ladies
 - Seattle USA
+- Shiny
 
 featured: false
 
