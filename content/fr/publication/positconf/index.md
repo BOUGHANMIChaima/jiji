@@ -1,5 +1,5 @@
 ---
-title: "Ma participation à la Posit::Conf 2024 à Seattle, USA"
+title: "Ma participation, pour la 1ère fois, à la posit::conf 2024 à Seattle-USA, grâce à la BOURSE que j'ai eu !"
 authors:
 - admin
 author_notes:
