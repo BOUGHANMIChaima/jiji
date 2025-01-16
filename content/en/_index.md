@@ -218,8 +218,8 @@ sections:
       organization_url: https://www.bvanudgeconsulting.com/
       title: B.E.Wiser Applied Behavioral Sciences - Marketing Pathway
       url: ""
-      company_logo: nu
-      icon : nu
+      company_logo: nn
+      icon : nn
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
       date_end: ""
       date_start: "2021-08-17"
