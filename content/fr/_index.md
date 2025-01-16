@@ -219,7 +219,8 @@ sections:
       organization_url: https://www.who.int/
       title: Développer son aisance à l'oral
       url: 
-      company_logo: who
+      company_logo: symbio
+      icon : symbio
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
@@ -229,13 +230,14 @@ sections:
       title: Generative IA & LLM
       url: 
       company_logo: hymaia
+      icon : hymaia
     - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
       date_start: "2024-06-01"
       description: "J'ai suivi un programme de 3 mois de Sciences Comportementales Appliquées - Parcours Marketing."
-      organization: BVA Nudge
+      organization: BVA Nudge Consulting
       organization_url: https://www.bvanudgeconsulting.com/
-      title: BE Wiser 
+      title: B.E.Wiser Sciences Comportementales Appliquées - Parcours Marketing
       url: 
       company_logo: nn
       icon : nn
