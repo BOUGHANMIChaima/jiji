@@ -24,6 +24,7 @@ summary: A simple linear regression performed on a database taken from a study b
 
 tags:
 - Python
+- Regression
 featured: false
 
 links:
