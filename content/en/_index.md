@@ -210,6 +210,16 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - certificate_url: https://drive.google.com/file/d/1Ma-L7XtOkMfF3p0Nz_u5LIvJViuBzTJZ/view?usp=sharing
+      date_end: ""
+      date_start: "2024-11-13"
+      description: "14 hours of public speaking training."
+      organization: Symbiosis
+      organization_url: https://www.symbiosis-consultants.net/
+      title: Develop speaking skills
+      url: 
+      company_logo: symbio
+      icon: symbio
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
