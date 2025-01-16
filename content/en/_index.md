@@ -89,7 +89,8 @@ sections:
           icon: database
           icon_pack: fas
         - name: Python
-          description: 50%
+          description:
+          percent: 50
           icon: python
           icon_pack: fab
         - name: Git
