@@ -3,8 +3,9 @@ title: useR! Conf talk au nom de R-ladies Paris
 summary: J'ai représenté R-Ladies Paris à la conférence useR ! juillet 2024 à Salzbourg, en Autriche.
 tags:
   - R
-  - Community
+  - R community
   - R-Ladies Paris
+  - useR! Conf
   
 date: '2024-07-02T14:00:00Z'
 
