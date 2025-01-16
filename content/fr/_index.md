@@ -219,7 +219,7 @@ sections:
       organization_url: https://www.who.int/
       title: Développer son aisance à l'oral
       url: 
-      company_logo: symbio
+      company_logo: rte
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
       date_start: "2024-10-10"
@@ -228,7 +228,7 @@ sections:
       organization_url: https://www.hymaia.com/
       title: Generative IA & LLM
       url: 
-      company_logo: hymaia
+      company_logo: hymaia.jpg
     - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
       date_start: "2024-06-01"
