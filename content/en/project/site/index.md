@@ -4,7 +4,7 @@ summary: Personal website developed with the R language.
 tags:
   - R
   - R markdown
-  - github
+  - Git
 date: '2023-10-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
