@@ -3,9 +3,12 @@ title: Application Shiny pour le secteur de l'énergie
 summary: Améliorer les performances du processus du système de transmission grâce à l'analyse des données et au machine learning.
 tags:
   - R
-  - shiny
+  - Shiny
   - SQL
+  - Git
+  - Data viz
   - Données d'énergie
+  - Secteur public
 date: '2022-09-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
