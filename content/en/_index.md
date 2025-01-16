@@ -51,6 +51,7 @@ sections:
         - name: R / R shiny
           description: 
           percent: 90
+          color: "#ff5733"
           icon: r-project
           icon_pack: fab
         - name: R Markdown
@@ -109,7 +110,7 @@ sections:
           icon: git
           icon_pack: fab
         - name: Overleaf/Latex
-          description: 90
+          description: 
           percent: 90
           icon: leaf
           icon_pack: fas
