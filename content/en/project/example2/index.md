@@ -2,7 +2,11 @@
 title: Fall detection using Machine Learning
 summary: Machine learning algorithms used and comparison of results
 tags:
-  - Python, KNN, Decision Tree, Random Forest, Gradient Boosting
+  - Python
+  - KNN
+  - Decision Tree
+  - Random Forest
+  - Gradient Boosting
 date: '2022-07-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
