@@ -49,79 +49,63 @@ sections:
     username: admin
     items:
         - name: R / R shiny
-          description: 
-          percent: 90
-          color: "#ff5733"
+          description: 90%
           icon: r-project
           icon_pack: fab
         - name: R Markdown
-          description: 
-          percent: 85
+          description: 85%
           icon: markdown
           icon_pack: fab
         - name: Statistics
-          description: 
-          percent: 80
+          description: 80%
           icon: chart-line
           icon_pack: fas
         - name: Linear models
-          description:
-          percent: 70
+          description: 70%
           icon: chart-column
           icon_pack: fas
         - name: Econometrics
-          description:
-          percent: 70
+          description: 70%
           icon: chart-area
           icon_pack: fas
         - name: Data analysis
-          description:
-          percent: 70
+          description: 70%
           icon: chart-simple
           icon_pack: fas
         - name: Data visualization
-          description:
-          percent: 70
+          description: 70%
           icon: chart-pie
           icon_pack: fas
         - name: Machine learning
-          description:
-          percent: 65
+          description: 65%
           icon: brain
           icon_pack: fas
         - name: Marketing Mix Modeling
-          description:
-          percent: 75
+          description: 75%
           icon: m
           icon_pack: fas
         - name: SQL
-          description:
-          percent: 65
+          description: 65%
           icon: database
           icon_pack: fas
         - name: Python
-          description:
-          percent: 50
+          description: 50%
           icon: python
           icon_pack: fab
         - name: Git
-          description:
-          percent: 70
+          description: 70%
           icon: git
           icon_pack: fab
         - name: Overleaf/Latex
-          description: 
-          percent: 90
+          description: 90%
           icon: leaf
           icon_pack: fas
         - name: Microsoft office
-          description:
-          percent: 95
+          description: 95%
           icon: microsoft
           icon_pack: fab
         - name: Playing football & Sport Analytics
-          description: 
-          percent: 85
+          description: 85%
           icon: futbol
           icon_pack: fas
   design:
