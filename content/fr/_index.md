@@ -214,11 +214,11 @@ sections:
     - certificate_url: https://drive.google.com/file/d/1Ma-L7XtOkMfF3p0Nz_u5LIvJViuBzTJZ/view?usp=sharing
       date_end: ""
       date_start: "2024-11-13"
-      description: "Prise de parole en public."
+      description: "14 heures de formaion de prise de parole en public."
       organization: Symbiosis
       organization_url: https://www.who.int/
       title: Développer son aisance à l'oral
-      url: ""
+      url: 
       company_logo: symbio
     - certificate_url: https://drive.google.com/file/d/1KyZKK2myuWwplXiPiODT73Qo8Xn8gsi-/view?usp=sharing
       date_end: ""
@@ -227,7 +227,7 @@ sections:
       organization: Hymaïa
       organization_url: https://www.hymaia.com/
       title: Generative IA & LLM
-      url: ""
+      url: 
       company_logo: hymaia
     - certificate_url: https://www.virtualbadge.io/certificate-validator?credential=abf30ce8-7362-4ed5-a5f2-470429ff5cb9
       date_end: ""
@@ -236,7 +236,7 @@ sections:
       organization: BVA Nudge
       organization_url: https://www.bvanudgeconsulting.com/
       title: BE Wiser 
-      url: ""
+      url: 
       company_logo: nn
     - certificate_url: https://drive.google.com/file/d/1rdOTFYRiYp1RFRUhLfbmRq5SQd7BHT_o/view?usp=sharing
       date_end: ""
