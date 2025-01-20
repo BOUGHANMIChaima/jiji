@@ -92,7 +92,7 @@ She loves bringing numbers to life, giving them meaning and value.
 She has a very good mastery of programming languages, especially
 R and R/shiny. She was a member of [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/) when she was a student and is currently one of the organizers of [R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/).
 She also masters Python, SQL, SAS and, not surprisingly, Latex and Git.
-Miss Boughanmi is a footballer, so when she's not playing with numbers and data, she's playing with the ball ! That's why she chose to work on tactical analysis of team sports during her Master's research.
+Miss Boughanmi is a footballer, so when she's not playing with numbers and data, she's playing with the ball ! That's why she chose to work on tactical analysis of team sports during her Master's research at [GREYC](https://www.greyc.fr/laboratoire/) laboratory.
 With the Paris Saclay team, Chaïma and her teammates qualified for the 2022 france championship, finishing first in île de France and 5th in all of France.
 
 {style="text-align: justify;"}
