@@ -1,5 +1,5 @@
 ---
-title:  J'ai représenté RLadies Paris à la useR! Conférence de Juillet 2024 à Salzbourg en Autriche
+title:  J'ai représenté R-Ladies Paris à la useR! Conférence de Juillet 2024 à Salzbourg en Autriche
 
 event: Linux Fundation useR! Conf
 event_url: https://events.linuxfoundation.org/user/
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Austria
 
-summary: J'ai donné une présentation préenregistrée en ligne pour la conférence useR, la conférence mondiale des utilisateurs de R, qui a eu lieu à Salzbourg, en Autriche en juillet 2024. J'ai parlé au nom de RLadies Paris avec comme thème Leveraging R-Ladies Paris Reach for Community Impact.
+summary: J'ai donné une présentation pré-enregistrée en ligne pour la conférence useR!, la conférence mondiale des utilisateurs de R, qui a eu lieu à Salzbourg, en Autriche en juillet 2024. J'ai parlé au nom de R-Ladies Paris avec comme thème "Leveraging R-Ladies Paris Reach for Community Impact".
 
 
 
