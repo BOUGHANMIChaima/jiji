@@ -112,7 +112,7 @@ sections:
       company_logo: rladiesparis
       company_url: "https://www.meetup.com/fr-FR/rladies-paris/"
       date_end: ""
-      date_start: "2023-09-01"
+      date_start: "2022-09-01"
       description: |2-
          * Help organize conferences and workshops using the **R language**.
          * Make posters, communicate and publish our events and materials (recordings, code, slides) on our social networks.
