@@ -116,19 +116,6 @@ sections:
     title: Expériences
     date_format: Jan 2006
     items:
-    - company: R-Ladies Paris
-      company_logo: rladiesparis
-      company_url: "https://www.meetup.com/fr-FR/rladies-paris/"
-      date_end: ""
-      date_start: "2023-09-01"
-      description: |2-
-         * Faire des talks et des presentations sur un sujet R.
-         * Contribuer à l'organisation de conférences et d'ateliers en utilisant le **langage R**.
-         * Faire des posters, communiquer et publier nos événements et matériels (enregistrements, codes, diapositives) sur nos réseaux sociaux.
-        * Contacter et accueillir des conférenciers et des formateurs pour promouvoir l'utilisation de la langue R dans le monde entier.
-      location: Paris
-      title: Organisatrice bénévole
-      
     - company: BVA xsight
       company_logo: bva
       company_url: "https://www.bva.fr/"
@@ -142,6 +129,19 @@ sections:
          * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**. 
       location: Paris
       title: Data Scientist & Business Modeler
+    - company: R-Ladies Paris
+      company_logo: rladiesparis
+      company_url: "https://www.meetup.com/fr-FR/rladies-paris/"
+      date_end: ""
+      date_start: "2023-09-01"
+      description: |2-
+         * Faire des talks et des presentations sur un sujet R.
+         * Contribuer à l'organisation de conférences et d'ateliers en utilisant le **langage R**.
+         * Faire des posters, communiquer et publier nos événements et matériels (enregistrements, codes, diapositives) sur nos réseaux sociaux.
+        * Contacter et accueillir des conférenciers et des formateurs pour promouvoir l'utilisation de la langue R dans le monde entier.
+      location: Paris
+      title: Organisatrice bénévole
+      
     - company: Rte
       company_logo: rte
       company_url: "https://www.rte-france.com/"
