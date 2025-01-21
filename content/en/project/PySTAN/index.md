@@ -1,5 +1,5 @@
 ---
-title: Multiplicatif Marketing Mix Modeling with PySTAN
+title: Multiplicatif Marketing Mix Modeling Implementation with PySTAN
 summary: Implementation of a multiplicatif Marketing Mix Model with Bayesian inference.
 tags:
   - Python
