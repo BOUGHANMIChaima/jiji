@@ -1,5 +1,5 @@
 ---
-title: Modèle Multiplicatif du Marketing Mix avec PySTAN
+title: Implémentation d'un modèle Multiplicatif du Marketing Mix avec PySTAN
 summary: Implementation d'un modèle multiplicatif de Marketing Mix Model avec l'estimation bayésienne.
 tags:
   - Python
