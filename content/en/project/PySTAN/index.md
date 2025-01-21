@@ -33,7 +33,7 @@ url_video: ''
 #slides: example
 ---
 
-PyStan utilise la méthode MCMC (Markov Chain Monte Carlo) pour estimer des modèles bayésiens en utilisant le langage STAN.
-Ce code contient les étapes pour faire un Model MULTIPLICATIF de Marketing Mix en estimant les paramètres de adstock et de diminishing Return et en précisant les priors. 
-Mon script contient aussi la décomposition de la contribution sur les différents canaux marketing.
-Plus de détails sur mon github.
+PyStan uses the MCMC (Markov Chain Monte Carlo) method to estimate Bayesian models using the STAN language.
+This code contains the steps to make a MULTIPLICATIVE Marketing Mix Model by estimating the adstock and diminishing return parameters and specifying the priors. 
+My script also contains a breakdown of the contribution of the various marketing channels.
+More details in my Github.
