@@ -213,7 +213,7 @@ sections:
         * Evaluation and **analysis** of Tunisian parents' knowledge and practices regarding nutrition, health and the education of young children.
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of [R shiny dashboards](https://boughanmi-chaima.shinyapps.io/121KAP2018/). <br/> <br/>
-        **Technology :** R - shiny - data analysis
+        **Technology :** R - shiny - Statistics - Data analysis
         **Domaines :** Social sector
   design:
     columns: "2"    
