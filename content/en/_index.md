@@ -197,7 +197,7 @@ sections:
       description: |2-
          * Help organize conferences and workshops using the **R language**.
          * Make posters, communicate and publish our events and materials (recordings, code, slides) on our social networks.
-         * Contact and host speakers and trainers to promote the use of the R language worldwide.
+         * Contact and host speakers and trainers to promote the use of the R language worldwide. 
       location: Tunisia
       title: Active member
       
@@ -212,7 +212,9 @@ sections:
          KAP survey on early childhood in Tunisia: In partnership with UNICEF, Tunisia resorted to conducting a KAP survey for parenting education (2018) in connection with the National Multisectoral Strategy for Early Childhood Development. My missions were:
         * Evaluation and **analysis** of Tunisian parents' knowledge and practices regarding nutrition, health and the education of young children.
         * Analyze data and create explanatory **graphs**.
-        * Calculation of indicators and implementation of [R shiny dashboards](https://boughanmi-chaima.shinyapps.io/121KAP2018/).
+        * Calculation of indicators and implementation of [R shiny dashboards](https://boughanmi-chaima.shinyapps.io/121KAP2018/). <br/> <br/>
+        **Technology :** R - shiny - data analysis
+        **Domaines :** Social sector
   design:
     columns: "2"    
 - block: accomplishments
