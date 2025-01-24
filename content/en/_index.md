@@ -181,9 +181,11 @@ sections:
       date_start: "2021-03-01"
       date_end: '2021-08-31'
       description: |2-
-         * **Tactical analysis** of team sports data : Implementation of an algorithm based on **dynamic graphs** to identify styles of play by detecting **frequent patterns** among players in collective sports.
+         * **Tactical analysis** of team sports data : Implementation of an algorithm, using Object Oriented Programming **(OOP)** with **Python**, based on **dynamic graphs** to identify styles of play by detecting **frequent patterns** among players in collective sports.
          * Applying the algorithm to data from the Qatar 2015 **handball world cup**.
-         * Participation in the editing of a **research paper**.
+         * Participation in the editing of a **research article** using **Latex**.  <br/> <br/>
+         **Technology:** Python - Object Oriented Programming (OOP) - Dynamic graphs - Tactical analysis - Latex  
+         **Domaines :** Sport sector
       location: Caen, France
       title: Data mining researcher
       
