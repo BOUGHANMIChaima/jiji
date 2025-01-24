@@ -127,8 +127,9 @@ sections:
          * Développement de graphiques interactifs et de Dashboards avec **Shiny.**
          * Exploration et implémentation des méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
          * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**.
-     
-         * **Technologie:** **R** - **Shniy** - **Python** - **Marketin Mix Modeling** - **Econométrie** - **Modélisation statistique** - **Random Forest** - **XGBoost** - **Chaînes de Markov** - **Modélisation Bayésienne**
+         * Technologie :
+           **R** - **Shniy** - **Python** - **Marketin Mix Modeling** - **Econométrie** - **Modélisation statistique** - **Random Forest** - **XGBoost** - **Chaînes de Markov** - **Modélisation Bayésienne**
+         * Domaines : **FMCG** - **Télécommunication** - **Automobile** 
       location: Paris
       title: Data Scientist & Business Modeler
     - company: R-Ladies Paris
