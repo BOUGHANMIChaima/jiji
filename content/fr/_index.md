@@ -127,8 +127,8 @@ sections:
          * Développement de graphiques interactifs et de Dashboards avec **Shiny.**
          * Exploration et implémentation des méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
          * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**.<br/> <br/>
-         * **Technologie :** R - Shniy - Python - Marketin Mix Modeling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne
-         * **Domaines :** FMCG - Télécommunication - Automobile 
+         * **Technologie :** R - Shniy - Python - Marketin Mix Modeling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne  
+         **Domaines :** FMCG - Télécommunication - Automobile 
       location: Paris
       title: Data Scientist & Business Modeler
     - company: R-Ladies Paris
@@ -156,8 +156,8 @@ sections:
         * Création, publication et documentation d'un dashboard interactif en utilisant **R Shiny**.
         * Classification des 'retraits d'ouvrages' et précision de la consommation d'énergie à l'aide d'algorithmes de machine learning avec **python**.
         * Faire les documentations avec **Rmarkdown** et **Git**.  <br/> <br/>
-        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git  
-        **Domaines:** Secteur de l'énergie
+        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine learning      
+        **Domaines :** Secteur de l'Energie
       location: Paris
       title: Data Scientist
       
@@ -169,8 +169,8 @@ sections:
       description: |2-
          * Animation de la partie pratique de la formation pour les cadres de l'Observatoire national de la sécurité routière.
          * Application en utilisant **le langage R**, **les statistiques descriptives** et **les statistiques inférentielles**.  <br/> <br/>
-         **Technologie :** R - les statistiques decriptives et inférentielles
-         **Domaines :** secteur de la santé
+         **Technologie :** R - les statistiques decriptives et inférentielles  
+         **Domaines :** secteur de la Santé
       location: Tunisie
       title: Formatrice en statistiques
       
@@ -183,7 +183,7 @@ sections:
          * **Analyse tactique** des données de sports collectifs : Mise en place d'un algorithme, codé en **python** en **Orienté Objet** (POO), basé sur les **graphes dynamiques** pour identifier les styles de jeu en détectant les **modèles fréquents** parmi les joueurs de sports collectifs.
          * Application de l'algorithme aux données de la **coupe du monde de handball** de Qatar 2015.
          * Participation à la rédaction d'un **article de recherche** en utilisant **Latex**.  <br/> <br/>
-         **Technologie :** Python - Programmation Orientée Objet (POO) - les graphes dynamiques - Analyse tactique - Latex
+         **Technologie :** Python - Programmation Orientée Objet (POO) - les graphes dynamiques - Analyse tactique - Latex  
           **Domaines :** secteur du Sport
       location: Caen, France
       title: Chercheuse en data mining
@@ -212,8 +212,8 @@ sections:
          * Evaluation et analyse des connaissances et des pratiques des parents tunisiens en matière de nutrition, de santé, d’éducation des petits enfants.
          * Analyser les données et créer des graphiques explicatifs.
          * Calcul des indicateurs et mise en place de [tableau de bord](https://boughanmi-chaima.shinyapps.io/121KAP2018/) **R shiny**. <br/> <br/>
-         **Technologie :** R - shiny - Statistiques - Analyse de données
-         **Domaines :** Secteur social
+         **Technologie :** R - shiny - Statistiques - Analyse de données  
+         **Domaines :** Secteur Social
   design:
     columns: "2"
     
