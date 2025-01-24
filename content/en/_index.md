@@ -350,7 +350,7 @@ sections:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
     title: Gallery
-    subtitle: 'Each photo tells a story that has marked my life (click on the photo to see it in full)'
+    subtitle: 'Each photo tells a story that has marked my life <br/> (click on the photo to see it in full)'
   design:
     columns: "1"
 - block: tag_cloud
