@@ -155,7 +155,10 @@ sections:
         * Creation of **SQL** queries to extract data from various department databases.
         * Processing and analysis of data required to improve the 'planning process'.
         * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
-        * Classification of 'energy works' and accuracy of consumption using machine learning algorithms with **python**.
+        * Classification of 'energy works' and accuracy of consumption using **Machine Learning** algorithms with **python**.
+        * Documentation using **Rmarkdown** and **Git**. <br/> <br/>
+        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git
+        **Fields :** Energy sector
       location: Paris
       title: Data Scientist
       
