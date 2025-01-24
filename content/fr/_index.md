@@ -155,7 +155,7 @@ sections:
         * Traitement et analyse des données nécessaires à l'amélioration du 'processus de planification'.
         * Création, publication et documentation d'un dashboard interactif en utilisant **R Shiny**.
         * Classification des 'retraits d'ouvrages' et précision de la consommation d'énergie à l'aide d'algorithmes de machine learning avec **python**.
-        * Faire les documentations avec **Rmarkdown** et **Git**.
+        * Faire les documentations avec **Rmarkdown** et **Git**.  <br/> <br/>
         **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git  
         **Domaines:** Secteur de l'énergie
       location: Paris
@@ -168,7 +168,9 @@ sections:
       date_end: '2021-08-10'
       description: |2-
          * Animation de la partie pratique de la formation pour les cadres de l'Observatoire national de la sécurité routière.
-         * Application en utilisant **le langage R**, **les statistiques descriptives** et **les statistiques inférentielles**.
+         * Application en utilisant **le langage R**, **les statistiques descriptives** et **les statistiques inférentielles**.  <br/> <br/>
+         **Technologie :** R - les statistiques decriptives et inférentielles
+         **Domaines :** secteur de la santé
       location: Tunisie
       title: Formatrice en statistiques
       
@@ -178,9 +180,11 @@ sections:
       date_start: "2021-03-01"
       date_end: '2021-08-31'
       description: |2-
-         * **Analyse tactique** des données de sports collectifs : Mise en place d'un algorithme basé sur les **graphes dynamiques** pour identifier les styles de jeu en détectant les **modèles fréquents** parmi les joueurs de sports collectifs.
+         * **Analyse tactique** des données de sports collectifs : Mise en place d'un algorithme, codé en **python** en **Orienté Objet** (POO), basé sur les **graphes dynamiques** pour identifier les styles de jeu en détectant les **modèles fréquents** parmi les joueurs de sports collectifs.
          * Application de l'algorithme aux données de la **coupe du monde de handball** de Qatar 2015.
-         * Participation à la rédaction d'un **document de recherche**.
+         * Participation à la rédaction d'un **article de recherche** en utilisant **Latex**.  <br/> <br/>
+         **Technologie :** Python - Programmation Orientée Objet (POO) - les graphes dynamiques - Analyse tactique - Latex
+          **Domaines :** secteur du Sport
       location: Caen, France
       title: Chercheuse en data mining
       
