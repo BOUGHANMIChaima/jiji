@@ -155,6 +155,9 @@ sections:
         * Traitement et analyse des données nécessaires à l'amélioration du 'processus de planification'.
         * Création, publication et documentation d'un dashboard interactif en utilisant **R Shiny**.
         * Classification des 'retraits d'ouvrages' et précision de la consommation d'énergie à l'aide d'algorithmes de machine learning avec **python**.
+        * Faire les documentations avec **Rmarkdown** et **Git**.
+        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git  
+        **Domaines:** Secteur de l'énergie
       location: Paris
       title: Data Scientist
       
