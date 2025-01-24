@@ -157,7 +157,7 @@ sections:
         * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
         * Classification of 'energy works' and accuracy of consumption using **Machine Learning** algorithms with **python**.
         * Documentation using **Rmarkdown** and **Git**. <br/> <br/>
-        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git
+        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning    
         **Fields :** Energy sector
       location: Paris
       title: Data Scientist
@@ -170,8 +170,8 @@ sections:
       description: |2-
          * Animating the practical part of the training session for managers of the National Road Safety Observatory.
          * Application using **R**, **descriptive statistics** and **inferential statistics**. <br/> <br/>
-         **Technology :** R - Descriptive & inferential statistical methods
-         **Domaines :** Health sector
+         **Technology :** R - Descriptive & inferential statistical methods    
+         **Fields :** Health sector
       location: Tunisia
       title: Statistician trainer
       
@@ -184,8 +184,8 @@ sections:
          * **Tactical analysis** of team sports data : Implementation of an algorithm, using Object Oriented Programming **(OOP)** with **Python**, based on **dynamic graphs** to identify styles of play by detecting **frequent patterns** among players in collective sports.
          * Applying the algorithm to data from the Qatar 2015 **handball world cup**.
          * Participation in the editing of a **research article** using **Latex**.  <br/> <br/>
-         **Technology:** Python - Object Oriented Programming (OOP) - Dynamic graphs - Tactical analysis - Latex  
-         **Domaines :** Sport sector
+         **Technology:** Python - Object Oriented Programming (OOP) - Dynamic graphs - Tactical analysis - Latex    
+         **Fields :** Sport sector
       location: Caen, France
       title: Data mining researcher
       
@@ -213,8 +213,8 @@ sections:
         * Evaluation and **analysis** of Tunisian parents' knowledge and practices regarding nutrition, health and the education of young children.
         * Analyze data and create explanatory **graphs**.
         * Calculation of indicators and implementation of [R shiny dashboards](https://boughanmi-chaima.shinyapps.io/121KAP2018/). <br/> <br/>
-        **Technology :** R - shiny - Statistics - Data analysis
-        **Domaines :** Social sector
+        **Technology :** R - shiny - Statistics - Data analysis  
+        **Fields :** Social sector
   design:
     columns: "2"    
 - block: accomplishments
