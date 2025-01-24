@@ -127,7 +127,7 @@ sections:
          * Development of interactive graphs and dashboards with **shiny**.
          * Exploring and implementing **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
          * Implementation of a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. <br/> <br/>
-         **Technologie :** R - Shniy - Python - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
+         **Technology :** R - Shniy - Python - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
          **Fields :** FMCG - Telecommunication - Automotive sector 
       location: Paris
       title: Data Scientist & Business Modeler
@@ -157,7 +157,7 @@ sections:
         * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
         * Classification of 'energy works' and accuracy of consumption using **Machine Learning** algorithms with **python**.
         * Documentation using **Rmarkdown** and **Git**. <br/> <br/>
-        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git
+        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git
         **Fields :** Energy sector
       location: Paris
       title: Data Scientist
@@ -169,7 +169,9 @@ sections:
       date_end: '2021-08-10'
       description: |2-
          * Animating the practical part of the training session for managers of the National Road Safety Observatory.
-         * Application using **R**, **descriptive statistics** and **inferential statistics**.
+         * Application using **R**, **descriptive statistics** and **inferential statistics**. <br/> <br/>
+         **Technology :** R - Descriptive & inferential statistical methods
+         **Domaines :** Health sector
       location: Tunisia
       title: Statistician trainer
       
