@@ -1,6 +1,6 @@
 ---
 title: Marketing Mix Model Implementation using Robyn
-summary: Implementation of Robyn : Continuous & Semi-Automated Marketing Mix Modeling (MMM) R package.
+summary: Implementation of Robyn : Continuous and Semi-Automated Marketing Mix Modeling (MMM) R package.
 tags:
   - R
   - Marketing Mix Modeling
