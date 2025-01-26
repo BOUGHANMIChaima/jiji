@@ -18,7 +18,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: View code
+    name: Voir code
     url: https://github.com/BOUGHANMIChaima/Multiplicatif-Marketing-Mix-Modeling-Implementation
 url_code: ''
 url_pdf: ''
