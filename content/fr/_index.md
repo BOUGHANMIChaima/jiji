@@ -186,7 +186,7 @@ sections:
          **Technologie :** Python - Programmation Orientée Objet (POO) - les graphes dynamiques - Analyse tactique - Latex  
           **Domaines :** secteur du Sport
       location: Caen, France
-      title: Chercheuse en data mining
+      title: Chercheuse en Data mining
       
     - company: R-Ladies Tunis
       company_logo: rladiestunis
