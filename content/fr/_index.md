@@ -86,7 +86,7 @@ sections:
           icon_pack: fas
         - name: MassTer
           description: 80%
-          icon: M
+          icon: m
           icon_pack: fas
         - name: SQL
           description: 65%
