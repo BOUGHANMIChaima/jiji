@@ -160,7 +160,7 @@ sections:
         * Création, publication et documentation d'un dashboard interactif en utilisant **R Shiny**.
         * Classification des 'retraits d'ouvrages' et précision de la consommation d'énergie à l'aide d'algorithmes de machine learning avec **python**.
         * Faire les documentations avec **Rmarkdown** et **Git**.  <br/> <br/>
-        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning        
+        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Série temporelles       
         **Domaines :** Secteur de l'Energie
       location: Paris
       title: Data Scientist
