@@ -127,7 +127,7 @@ sections:
          * Development of interactive graphs and dashboards with **shiny**.
          * Exploring and implementing **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
          * Implementation of a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. <br/> <br/>
-         **Technology :** R - Shniy - Python - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
+         **Technology :** R - Shniy - Python - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
          **Fields :** FMCG - Telecommunication - Automotive sector 
       location: Paris
       title: Data Scientist & Business Modeler
