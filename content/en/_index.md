@@ -86,8 +86,8 @@ sections:
           icon_pack: fas
         - name: MassTer
           description: 80%
-          icon: M
-          icon_pack: fas
+          icon: m
+          icon_pack: fab
         - name: SQL
           description: 65%
           icon: database
@@ -161,7 +161,7 @@ sections:
         * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
         * Classification of 'energy works' and accuracy of consumption using **Machine Learning** algorithms with **python**.
         * Documentation using **Rmarkdown** and **Git**. <br/> <br/>
-        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time seies  
+        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time series  
         **Fields :** Energy sector
       location: Paris
       title: Data Scientist
