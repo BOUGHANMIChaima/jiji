@@ -30,7 +30,7 @@ interests:
 
 
 # Full name (for SEO)
-first_name: Chaïma
+first_name: Chaima
 last_name: Boughanmi
 
 organizations:
@@ -70,7 +70,7 @@ status:
 superuser: true
 
 # Display name
-title: Chaïma Boughanmi
+title: Chaima Boughanmi
 
 # # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: 'boughanmichaima9@gmail.com'
@@ -79,18 +79,18 @@ title: Chaïma Boughanmi
 # highlight_name: true
 
 ---
-Chaïma BOUGHANMI est Data Scientist chez [BVA Xsight](https://www.bva.fr/) à Paris. La science des données était une discipline toute indiquée pour elle. Elle est ingénieure en statistiques et analyse de l'information.
+Chaima BOUGHANMI est Data Scientist chez [BVA Xsight](https://www.bva.fr/) à Paris. La science des données était une discipline toute indiquée pour elle. Elle est ingénieure en statistiques et analyse de l'information.
 Elle est titulaire d'un master en Data Science de l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance) et d'un master de recherche en traitement de l'information et complexité du vivant.  
 Très à l'aise avec les chiffres et les statistiques, elle aime leur donner du sens et les voir impacter le réel.  
 Elle a travaillé dans plusieurs domaines : énergie, sport, sondages, produits de grande consommation, automobile, télécommunications, médias et marketing.
 Durant les missions qu'elle entreprend actuellement, son expertise comprend la mise en œuvre de modèles d'apprentissage automatique (ML) tels que Random Forest et XGBoost pour résoudre les problèmatiques clients ainsi que le développement de modèles d'attribution en utilisant des chaînes de Markov. Elle crée des tableaux de bord et des graphiques interactifs avec Shiny pour améliorer la visualisation des données. En outre, elle a travaillé sur les méthodes de calcul des synergies pour les modèles multiplicatifs dans le cadre d'un Modèle de Marketing Mix (MMM) et sur l'estimation des modèles bayésiens à l'aide de PySTAN et des méthodes de Monte Carlo par chaîne de Markov (MCMC).  
 Au cours de ses études, Mme Boughanmi a acquis de l'expérience en modélisation mathématique, en analyse de données, en programmation, en visualisation de données et en apprentissage automatique.
 Elle a également eu l'occasion, grâce à son stage d'ingénieur, à ses deux stages de fin d'études de master et à ses projets académiques, de comprendre les questions d'analyse de données qui l'intéressaient particulièrement et d'acquérir de l'expérience dans ce domaine.  
-Au cours de ses études, Chaïma a développé un intérêt profond pour l'analyse et le traitement des données à grande échelle, les prévisions, l'optimisation, le data mining et la théorie des graphes.
+Au cours de ses études, Chaima a développé un intérêt profond pour l'analyse et le traitement des données à grande échelle, les prévisions, l'optimisation, le data mining et la théorie des graphes.
 Elle aime donner vie aux chiffres, leur donner du sens et de la valeur.
 Elle a une très bonne maîtrise des langages de programmation, en particulier
 R et R/shiny. Elle a été membre de [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/) lorsqu'elle était étudiante et est actuellement l'une des organisatrices de [R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/).
 Elle maîtrise également Python, SQL, SAS et évidemment Latex et Git.  
 Miss Boughanmi est footballeuse, alors quand elle ne joue pas avec les chiffres et les données, elle joue avec le ballon ! C'est pourquoi elle a choisi de travailler sur l'analyse tactique des sports collectifs dans le cadre de son master de recherche au laboratoire [GREYC](https://www.greyc.fr/laboratoire/).  
-Avec l'équipe de Paris Saclay, Chaïma et ses coéquipières se sont qualifiées pour le championnat de France 2022, terminant à la première place en île de France et à la cinquième place au niveau national.
+Avec l'équipe de Paris Saclay, Chaima et ses coéquipières se sont qualifiées pour le championnat de France 2022, terminant à la première place en île de France et à la cinquième place au niveau national.
 {style="text-align: justify;"}
