@@ -4,7 +4,7 @@ theme: "theme-academic-cv"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Chaïma Boughanmi # Website name
+title: Chaima Boughanmi # Website name
 baseURL: 'https://chaimabgh.netlify.app/' # Website URL
 
 ############################
