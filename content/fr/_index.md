@@ -348,15 +348,15 @@ sections:
   design:
       columns: '2'
       view: compact
-- block: markdown
-  id : gallery
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Galerie
-    subtitle: 'Chaque photo raconte une histoire qui a marqué ma vie <br/> (Veuillez cliquer sur la photo pour la voir en complet)'
-  design:
-    columns: "1"
+# - block: markdown
+ # id : gallery
+  # content:
+  # subtitle: ""
+   # text: '{{< gallery album="demo" >}}'
+  #  title: Galerie
+ #   subtitle: 'Chaque photo raconte une histoire qui a marqué ma vie <br/> (Veuillez cliquer sur la photo pour la voir en complet)'
+ # design:
+  #  columns: "1"
     
 - block: tag_cloud
   content:
