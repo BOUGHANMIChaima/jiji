@@ -349,14 +349,14 @@ sections:
       columns: '2'
       view: compact
 - block: markdown
-  id : gallery
-  content:
-    subtitle: ""
-    text: '{{< gallery album="demo" >}}'
-    title: Gallery
-    subtitle: 'Each photo tells a story that has marked my life  <br/>  (click on the photo to see it in full)'
-  design:
-    columns: "1"
+#  id : gallery
+ # content:
+ #   subtitle: ""
+  #  text: '{{< gallery album="demo" >}}'
+   # title: Gallery
+   # subtitle: 'Each photo tells a story that has marked my life  <br/>  (click on the photo to see it in full)'
+  # design:
+   # columns: "1"
 - block: tag_cloud
   content:
     title: Popular Topics
