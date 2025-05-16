@@ -35,7 +35,7 @@ last_name: Boughanmi
 
 organizations:
 - name: The BVA Family
-  url: https://www.bva.fr/
+  url: https://www.thebvafamily.com/
 - name: R-Ladies Paris
   url: https://www.meetup.com/fr-FR/rladies-paris/
 
@@ -79,7 +79,7 @@ title: Chaima Boughanmi
 # highlight_name: true
 
 ---
-Chaima BOUGHANMI est Data Scientist chez [The BVA Family](https://www.bva.fr/) à Paris. La science des données était une discipline toute indiquée pour elle. Elle est ingénieure en statistiques et analyse de l'information.
+Chaima BOUGHANMI est Data Scientist chez [The BVA Family](https://www.thebvafamily.com/) à Paris. La science des données était une discipline toute indiquée pour elle. Elle est ingénieure en statistiques et analyse de l'information.
 Elle est titulaire d'un master en Data Science de l'[Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance) et d'un master de recherche en traitement de l'information et complexité du vivant.  
 Très à l'aise avec les chiffres et les statistiques, elle aime leur donner du sens et les voir impacter le réel.  
 Elle a travaillé dans plusieurs domaines : énergie, sport, sondages, produits de grande consommation, automobile, télécommunications, médias et marketing.
