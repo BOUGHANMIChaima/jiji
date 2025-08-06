@@ -39,7 +39,7 @@ organizations:
   url: https://www.meetup.com/fr-FR/rladies-paris/
 
 # Role/position/tagline
-role: Data Scientist @ The BVA Family | R shiny developer <br /> Organizer @ R-Ladies Paris <br /> Paris France
+role: Data Scientist @ The BVA Family <br /> Organizer @ R-Ladies Paris <br /> Paris France
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
