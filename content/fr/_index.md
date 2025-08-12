@@ -120,9 +120,9 @@ sections:
     title: Expériences
     date_format: Jan 2006
     items:
-    - company: BVA Xsight
+    - company: The BVA Family
       company_logo: bva
-      company_url: "https://www.bva.fr/"
+      company_url: "https://www.thebvafamily.com/"
       date_start: "2022-11-07"
       description: |2-
          * **Marketing Mix Modeling** : Analyser le Marketing Mix Modeling, l'étude de marché, **ROI**, quantifier les effets passés et futurs des décisions, estimer la valeur des actifs intangibles. **Modélisation tridimensionnelle** : mathématique pour connecter tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
