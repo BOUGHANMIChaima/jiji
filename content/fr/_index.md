@@ -120,10 +120,18 @@ sections:
     title: Expériences
     date_format: Jan 2006
     items:
+    - company: Ipsos
+      company_logo: bva
+      company_url: "https://www.ipsos.com/fr-fr"
+      date_start: "2025-06-06"
+      location: Paris
+      title: Data Scientist
+      
     - company: The BVA Family
       company_logo: bva
       company_url: "https://www.thebvafamily.com/"
       date_start: "2022-11-07"
+      date_end: "2025-06-01"
       description: |2-
          * **Marketing Mix Modeling** : Analyser le Marketing Mix Modeling, l'étude de marché, **ROI**, quantifier les effets passés et futurs des décisions, estimer la valeur des actifs intangibles. **Modélisation tridimensionnelle** : mathématique pour connecter tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
          * Implémentation des modèles de **Machine learning** pour répondre à des problématiques clients : **les modèles d'attributions** (utilisation de Random Forest, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes). 
