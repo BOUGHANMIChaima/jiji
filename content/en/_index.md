@@ -124,7 +124,6 @@ sections:
       company_logo: bva
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2025-06-06"
-      description: |2-
       location: Paris
       title: Data Sientist
     
