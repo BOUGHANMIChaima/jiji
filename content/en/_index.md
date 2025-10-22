@@ -120,7 +120,7 @@ sections:
     title: Experiences
     date_format: Jan 2006
     items:
-  - company: Ipsos
+    - company: Ipsos
       company_logo: bva
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2025-06-06"
