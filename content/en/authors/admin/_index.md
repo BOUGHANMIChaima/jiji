@@ -33,13 +33,13 @@ first_name: Chaima
 last_name: Boughanmi
 
 organizations:
-- name: The BVA Family
-  url: https://www.thebvafamily.com/
+- name: Ipsos
+  url: https://www.ipsos.com/fr-fr
 - name: R-Ladies Paris
   url: https://www.meetup.com/fr-FR/rladies-paris/
 
 # Role/position/tagline
-role: Data Scientist @ The BVA Family <br /> Organizer @ R-Ladies Paris <br /> Paris France
+role: Data Scientist @ Ipsos <br /> Organizer @ R-Ladies Paris <br /> Paris France
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -79,7 +79,7 @@ title: Chaima Boughanmi
 
 ---
 
-Chaima BOUGHANMI is a Data Scientist at [The BVA Family](https://www.thebvafamily.com/) in Paris. Data science was the perfectly suited discipline for her. She is an engineer in statistics and information analysis.
+Chaima BOUGHANMI is a Data Scientist at [Ipsos](https://www.ipsos.com/fr-fr) in Paris. Data science was the perfectly suited discipline for her. She is an engineer in statistics and information analysis.
 She holds a master's degree in data science from [Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance) and a research master's degree in information processing and complexity of living systems.  
 Very comfortable with numbers and statistics, she likes to give them meaning and see them have an impact on reality.
 She has worked in several fields: energy, sports, polling, FMCG, automotive, telecom, media and marketing.
