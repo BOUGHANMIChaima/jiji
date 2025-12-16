@@ -77,11 +77,11 @@ sections:
           icon: chart-pie
           icon_pack: fas
         - name: Machine learning
-          description: 65%
+          description: 70%
           icon: brain
           icon_pack: fas
         - name: Marketing Mix Modeling
-          description: 75%
+          description: 80%
           icon: m
           icon_pack: fas
         - name: MassTer
@@ -89,11 +89,11 @@ sections:
           icon: m
           icon_pack: fas
         - name: SQL
-          description: 65%
+          description: 70%
           icon: database
           icon_pack: fas
         - name: Python
-          description: 50%
+          description: 60%
           icon: python
           icon_pack: fab
         - name: Git
