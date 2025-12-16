@@ -126,7 +126,7 @@ sections:
       date_start: "2022-11-07"
       description: |2-
          * Collect, structure, and analyze marketing data from media agencies, advertising agencies, and the client's internal tools.
-         * Develop and maintain Marketing Mix Modeling (MMM) models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
+         * Develop and maintain **Marketing Mix Modeling (MMM)** models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
          * Analyze the contribution of each marketing lever (TV, digital, social media, display, search, etc.) to overall performance.
          * Optimize the distribution of the marketing budget using advanced statistical models.
          * Evaluate the ROI of campaigns and identify the most profitable levers.
