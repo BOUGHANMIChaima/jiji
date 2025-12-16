@@ -119,24 +119,15 @@ sections:
   content:
     title: Experiences
     date_format: Jan 2006
-    items:
+    items:  
     - company: Ipsos
       company_logo: ipsos
       company_url: "https://www.ipsos.com/fr-fr"
-      date_start: "2025-06-06"
-      location: Paris
-      title: Data Sientist
-    
-    - company: The BVA Family
-      company_logo: bva
-      company_url: "https://www.thebvafamily.com/"
       date_start: "2022-11-07"
-      date_end: "2025-06-01"
       description: |2-
          * Collect, structure, and analyze marketing data from media agencies, advertising agencies, and the client's internal tools.
-         *  Develop and maintain Marketing Mix Modeling (MMM) models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
-         *  Analyze the contribution of each marketing lever (TV, digital, social media, display, search, etc.) to
-overall performance.
+         * Develop and maintain Marketing Mix Modeling (MMM) models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
+         * Analyze the contribution of each marketing lever (TV, digital, social media, display, search, etc.) to overall performance.
          * Optimize the distribution of the marketing budget using advanced statistical models.
          * Evaluate the ROI of campaigns and identify the most profitable levers.
          * Implement Machine Learning models to solve customer issues : **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).
@@ -147,7 +138,7 @@ overall performance.
          **Technology :** R - Shniy - Python - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
          **Fields :** FMCG - Telecommunication - Automotive sector - Transport - Parfumes - Sports betting
       location: Paris
-      title: Data Scientist & Business Modeler
+      title: Data Scientist
 
     - company: R-Ladies Paris
       company_logo: rladiesparis
