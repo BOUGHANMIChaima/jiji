@@ -137,7 +137,7 @@ sections:
          * Exploration et implémentation des méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
          * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**.<br/> <br/>
          **Technologie :** R - Shniy - Python - MassTer -  Marketing Mix Modelling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne  
-         **Domaines :** FMCG - Télécommunication - Automobile 
+         **Domaines :** FMCG - Télécommunication - Automobile - Transport - Parfums - Paris sportifs
       location: Paris
       title: Data Scientist
     - company: R-Ladies Paris
