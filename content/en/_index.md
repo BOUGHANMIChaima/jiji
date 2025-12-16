@@ -133,14 +133,19 @@ sections:
       date_start: "2022-11-07"
       date_end: "2025-06-01"
       description: |2-
-         * Marketing Mix Modeling :  **Analysing** **Marketing Mix Modeling**, **ROI** Market Research, quantify the past and future effects of decisions, **estimate** the value of intangible assets. 3-dimensional **modeling**: mathematical to connect all the factors that explain business performance, financial to arbitrate, and visual to collaborate and mediate.
-         * Implementation of Machine Learning models to solve customer issues : **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).
-         * Implementing attribution models with **Markov chains**.
-         * Development of interactive graphs and dashboards with **shiny**.
-         * Exploring and implementing **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
-         * Implementation of a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. <br/> <br/>
+         * Collect, structure, and analyze marketing data from media agencies, advertising agencies, and the client's internal tools.
+         *  Develop and maintain Marketing Mix Modeling (MMM) models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
+         *  Analyze the contribution of each marketing lever (TV, digital, social media, display, search, etc.) to
+overall performance.
+         * Optimize the distribution of the marketing budget using advanced statistical models.
+         * Evaluate the ROI of campaigns and identify the most profitable levers.
+         * Implement Machine Learning models to solve customer issues : **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).
+         * Implement attribution models with **Markov chains**.
+         * Develop interactive graphs and dashboards with **shiny**.
+         * Explore and implement **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
+         * Implement a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. <br/> <br/>
          **Technology :** R - Shniy - Python - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
-         **Fields :** FMCG - Telecommunication - Automotive sector 
+         **Fields :** FMCG - Telecommunication - Automotive sector - Transport - Parfumes - Sports betting
       location: Paris
       title: Data Scientist & Business Modeler
 
