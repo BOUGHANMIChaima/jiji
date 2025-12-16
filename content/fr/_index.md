@@ -127,7 +127,7 @@ sections:
       description: |2-
          * Collecter, structurer et analyser les données marketing issues des agences médias, régies publicitaires et outils internes du client.
          * Vérifier les incohérences, valider les données et les hypothèses de travail avec l’équipe Marketing.
-         * Développer et maintenir des modèles de Marketing Mix Modeling (MMM) pour mesurer l’impact des investissements marketing sur le KPI (Ventes, CA, Taffic).
+         * Développer et maintenir des modèles de **Marketing Mix Modeling (MMM)** pour mesurer l’impact des investissements marketing sur le KPI (Ventes, CA, Taffic).
          * Analyser la contribution de chaque levier marketing (TV, digital, social media, display, search, etc.) à la performance globale.
          * Optimiser la repartition du budget marketing à l’aide de modèles statistiques avancés. 
          * Evaluer le ROI des campagnes et identifier les leviers les plus rentables.
