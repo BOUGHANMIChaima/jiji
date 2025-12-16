@@ -125,8 +125,13 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-         * **Marketing Mix Modeling** : Analyser le Marketing Mix Modeling, l'étude de marché, **ROI**, quantifier les effets passés et futurs des décisions, estimer la valeur des actifs intangibles. **Modélisation tridimensionnelle** : mathématique pour connecter tous les facteurs qui expliquent la performance de l'entreprise, financière pour arbitrer, et visuelle pour collaborer et servir de médiateur.
-         * Implémentation des modèles de **Machine learning** pour répondre à des problématiques clients : **les modèles d'attributions** (utilisation de Random Forest, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes). 
+         * Collecter, structurer et analyser les données marketing issues des agences médias, régies publicitaires et outils internes du client.
+         * Vérifier les incohérences, valider les données et les hypothèses de travail avec l’équipe Marketing.
+         * Développer et maintenir des modèles de Marketing Mix Modeling (MMM) pour mesurer l’impact des investissements marketing sur le KPI (Ventes, CA, Taffic).
+         * Analyser la contribution de chaque levier marketing (TV, digital, social media, display, search, etc.) à la performance globale.
+         * Optimiser la repartition du budget marketing à l’aide de modèles statistiques avancés. 
+         * Evaluer le ROI des campagnes et identifier les leviers les plus rentables.
+         * Implémenter des modèles de **Machine learning** pour répondre à des problématiques clients : **les modèles d'attributions** (utilisation de Random Forest, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes). 
          * Implémentation des modèles d'attribution avec les **Chaînes de Markov**
          * Développement de graphiques interactifs et de Dashboards avec **Shiny.**
          * Exploration et implémentation des méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
