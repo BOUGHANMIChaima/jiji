@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Paris
 
-summary: Generative AI is evolving rapidly, and that includes powerful new ways to integrate AI into your R scripts. Sharon will offer an accessible, high-level overview of what’s possible today including how LLMs can help you write and improve your R code, as well as add AI-driven features to your applications.
+summary: Generative AI is evolving rapidly, and that includes powerful new ways to integrate AI into your R scripts. Sharon will offer an accessible, high-level overview of what’s possible today including how LLMs can help you write and improve your R code.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
