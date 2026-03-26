@@ -82,7 +82,7 @@ sections:
           icon_pack: fas
         - name: AI & LLM
           description: 70%
-          icon: openai
+          icon: bots
           icon_pack: fab
         - name: Prompt Engineering
           description: 70%
