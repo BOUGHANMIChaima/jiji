@@ -82,7 +82,7 @@ sections:
           icon_pack: fas
        - name: AI & LLM
           description: 70%
-          icon: microchip
+          icon: openai
           icon_pack: fas
         - name: Marketing Mix Modeling
           description: 80%
