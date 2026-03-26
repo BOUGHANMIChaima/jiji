@@ -166,7 +166,7 @@ sections:
       date_start: "2022-04-04"
       date_end: "2022-10-31"
       description: |2-
-       L'objectif de ce projet c'est de mettre en oeuvre des techniques de data science pour éclairer le pilotage du processus de planification des opérations sur le réseau de transport d'électricité à partir des données brutes :  
+         L'objectif de ce projet c'est de mettre en oeuvre des techniques de data science pour éclairer le pilotage du processus de planification des opérations sur le réseau de transport d'électricité à partir des données brutes :  
         • Création des requêtes **SQL** afin d’extraire des données à partir de grandes bases de différents départements.    
         • Traitement et analyse de données nécessaires et production des statistiques pour améliorer le processus de planification.  
         • Application du **Traitement de Langage Naturel** (NLP) pour analyser les données textuelles recueillis de différentes sources.    
