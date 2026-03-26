@@ -173,7 +173,7 @@ sections:
         • Applying **Natural Language Processing** (NLP) to analyze textual data collected from various sources.    
         • Creation, publication, and documentation of an interactive analytics **dashboard** for all RTE regions.      
         • Simulation and **forecasting** of total power generation using **time series** models, **machine learning**, and long short-term memory (LSTM) **neural networks**.  
-        • Documentation using R Markdown and **Git**.<br/> 
+        • Documentation using R Markdown and **Git**.<br/> <br/> 
         **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time series - Neural Networks    
         **Fields :** Energy sector
       location: Paris
