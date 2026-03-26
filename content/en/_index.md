@@ -142,8 +142,8 @@ sections:
          • Development and deployment of MMM models to measure the impact of different marketing channels on sales, optimize budget allocation, and provide strategic recommendations based on advanced statistical analysis.      
          • Evaluation of marketing campaign ROI and identification of the most rentable levers.  
          •  Exploration and implementation of synergy calculation methods for a multiplicative model.<br/> <br/> 
-         𝟑- Testing different **LLMs** (Claude, Gemini, Mistral, ChatGPT) and the practice of **prompt engineering** with a focus on decision support and systematic human validation.<br/> <br/>
-        **Technology :** R - Shniy - Python - LLM - IA - Prompt engineering - NLP - Git -  MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling.    
+         𝟑- Testing different **LLMs** (Claude, Gemini, Mistral, ChatGPT) and the practice of **prompt engineering** with a focus on decision support and systematic human validation <br/> <br/>
+        **Technology :** R - Shniy - Python - LLM - IA - Prompt engineering - NLP - Git -  MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling    
         **Fields:** FMCG - Telecommunications - Transport - Automotive - Perfumes - Online banking - Sports betting.       
       location: Paris
       title: Data Scientist
@@ -173,7 +173,7 @@ sections:
         • Applying **Natural Language Processing** (NLP) to analyze textual data collected from various sources.    
         • Creation, publication, and documentation of an interactive analytics **dashboard** for all RTE regions.      
         • Simulation and **forecasting** of total power generation using **time series** models, **machine learning**, and long short-term memory (LSTM) **neural networks**.  
-        • Documentation using R Markdown and **Git**.<br/> <br/>  
+        • Documentation using R Markdown and **Git**.<br/> 
         **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time series - Neural Networks    
         **Fields :** Energy sector
       location: Paris
