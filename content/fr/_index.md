@@ -82,12 +82,12 @@ sections:
           icon_pack: fas
         - name: IA & LLM
           description: 70%
-          icon: boat
+          icon: bots
           icon_pack: fab
-        - name: prompt Engineering
+        - name: Prompt Engineering
           description: 70%
           icon: terminal
-          icon_pack: fab
+          icon_pack: fas
         - name: Marketing Mix Modeling
           description: 90%
           icon: m
