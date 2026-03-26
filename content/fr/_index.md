@@ -137,13 +137,13 @@ sections:
         •  Implémentation des modèles de Machine Learning pour répondre à des problématiques clients : utilisation des modèles de Random Forest, régression, clustering, séries temmporelles, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes.   
         •  Implémentation des modèles d'attribution avec les chaînes de Markov.  
         •  Développement de graphiques interactifs et de Dashboards avec Shiny.  
-        •  Implémentation d'un modèle PySTAN en utilisant la méthode Monte Carlo par Markov Chain (MCMC) pour estimer des modèles bayésiens.  
+        •  Implémentation d'un modèle PySTAN en utilisant la méthode Monte Carlo par Markov Chain (MCMC) pour estimer des modèles bayésiens.<br/> <br/>  
         𝟐- **Marketing Mix Modeling**  
         • Conception et déploiement de modèles de MMM permettant de mesurer l’impact des différents canaux marketing sur les ventes, optimiser l’allocation des budgets et fournir des  recommandations stratégiques basées sur des analyses statistiques avancées.    
         •  Evaluation du ROI des campagnes marketing et identification des leviers les plus rentables.  
-        •  Exploration et implémentation des méthodes de calcul de synergie pour un modèle multiplicatif.    
+        •  Exploration et implémentation des méthodes de calcul de synergie pour un modèle multiplicatif.<br/> <br/>    
         𝟑- **Expérimentation de différents LLMs** (Claude, Gemini, Mistral, ChatGPT) et pratique du **prompt engineering** dans une logique d'assistance à la décision avec validation humaine systématique. <br/> <br/>
-        **Technologie :** Python - R - Shniy - LLM - Prompt Engineering - Machine Learning - MassTer -  Marketing Mix Modelling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne
+        **Technologie :** Python - R - Shniy - LLM - Prompt Engineering - Machine Learning - MassTer -  Marketing Mix Modelling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne  
         **Secteurs** FMCG - Télécommunication - Transport - Automobile - Parfums - Banque en ligne - Paris sportifs.         
       location: Paris
       title: Data Scientist
