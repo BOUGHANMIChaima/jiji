@@ -10,7 +10,7 @@ address:
   city: 
   region: 
   postcode: 
-  country: Tunisia
+  country: Paris
 
 summary: Vous devez souvent attendre que le code R calcule des résultats à partir de grands ensembles de données ? Ou êtes-vous à court de mémoire ? Toby Dylan Hocking nous montrera la meilleure manière de remanier le code R afin de minimiser l'utilisation du temps et de la mémoire.
 
