@@ -133,12 +133,12 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-        𝟏- **Machine Learning & Data visualisation**
+        𝟏- **Machine Learning & Data visualisation**  
         •  Implémentation des modèles de Machine Learning pour répondre à des problématiques clients : utilisation des modèles de Random Forest, régression, clustering, séries temmporelles, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes.   
         •  Implémentation des modèles d'attribution avec les chaînes de Markov.  
         •  Développement de graphiques interactifs et de Dashboards avec Shiny.  
         •  Implémentation d'un modèle PySTAN en utilisant la méthode Monte Carlo par Markov Chain (MCMC) pour estimer des modèles bayésiens.  
-        𝟐- **Marketing Mix Modeling**
+        𝟐- **Marketing Mix Modeling**  
         • Conception et déploiement de modèles de MMM permettant de mesurer l’impact des différents canaux marketing sur les ventes, optimiser l’allocation des budgets et fournir des  recommandations stratégiques basées sur des analyses statistiques avancées.    
         •  Evaluation du ROI des campagnes marketing et identification des leviers les plus rentables.  
         •  Exploration et implémentation des méthodes de calcul de synergie pour un modèle multiplicatif.    
