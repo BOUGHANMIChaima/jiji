@@ -80,7 +80,7 @@ sections:
           description: 70%
           icon: brain
           icon_pack: fas
-       - name: AI & LLM
+        - name: AI & LLM
           description: 70%
           icon: openai
           icon_pack: fas
