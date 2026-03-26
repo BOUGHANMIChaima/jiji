@@ -94,7 +94,7 @@ sections:
           icon_pack: fas
         - name: MassTer
           description: 80%
-          icon: m
+          icon: square-poll-vertical
           icon_pack: fas
         - name: SQL
           description: 70%
