@@ -133,12 +133,11 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-         * Collect, structure, and analyze marketing data from media agencies, advertising agencies, and the client's internal tools.
-         * Develop and maintain **Marketing Mix Modeling (MMM)** models to measure the impact of marketing investments on KPIs (Sales, Revenue, Traffic).
-         * Analyze the contribution of each marketing lever (TV, digital, social media, display, search, etc.) to overall performance.
-         * Optimize the distribution of the marketing budget using advanced statistical models.
-         * Evaluate the ROI of campaigns and identify the most profitable levers.
-         * Implement Machine Learning models to solve customer issues : **Attribution models** (use of Random Forest, One Hot Encoding with hyperparameter optimization using XGBoost - Cross Validation and class balancing techniques).
+         𝟏- Machine Learning & Data Visualization:
+         •  Implementation of **Machine Learning** models to solve customer problems: use of Random Forest, regression, clustering, time series, and One-Hot Encoding models with hyperparameter optimization using   XGBoost—cross-validation and class balancing techniques. 
+         •  Implementation of attribution models using Markov chains.
+         •  Development of interactive charts and dashboards using Shiny.
+         •  Implementation of a PySTAN model using the Markov Chain Monte Carlo (MCMC) method to estimate Bayesian models.
          * Implement attribution models with **Markov chains**.
          * Develop interactive graphs and dashboards with **shiny**.
          * Explore and implement **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
