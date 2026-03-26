@@ -80,6 +80,10 @@ sections:
           description: 70%
           icon: brain
           icon_pack: fas
+       - name: AI & LLM
+          description: 70%
+          icon: microchip.ia
+          icon_pack: fas
         - name: Marketing Mix Modeling
           description: 80%
           icon: m
