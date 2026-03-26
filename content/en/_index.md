@@ -83,6 +83,10 @@ sections:
         - name: AI & LLM
           description: 70%
           icon: openai
+          icon_pack: fab
+        - name: Prompt Engineering
+          description: 70%
+          icon: terminal
           icon_pack: fas
         - name: Marketing Mix Modeling
           description: 80%
