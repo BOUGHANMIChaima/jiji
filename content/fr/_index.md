@@ -166,14 +166,15 @@ sections:
       date_start: "2022-04-04"
       date_end: "2022-10-31"
       description: |2-
-        Data Science appliquée au processus de planification des travaux : créer de la valeur par  l'exploration et l'analyse de données brutes :
-        * Création de requêtes **SQL** pour extraire des données de diverses bases de données départementales.
-        * Traitement et analyse des données nécessaires à l'amélioration du 'processus de planification'.
-        * Création, publication et documentation d'un dashboard interactif en utilisant **R Shiny**.
-        * Classification des 'retraits d'ouvrages' et précision de la consommation d'énergie à l'aide d'algorithmes de machine learning avec **python**.
-        * Faire les documentations avec **Rmarkdown** et **Git**.  <br/> <br/>
-        **Technologie :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Série temporelles       
-        **Domaines :** Secteur de l'Energie
+       L'objectif de ce projet c'est de mettre en oeuvre des techniques de data science pour éclairer le pilotage du processus de planification des opérations sur le réseau de transport d'électricité à partir des données brutes :  
+        • Création des requêtes **SQL** afin d’extraire des données à partir de grandes bases de différents départements.    
+        • Traitement et analyse de données nécessaires et production des statistiques pour améliorer le processus de planification.  
+        • Application du **Traitement de Langage Naturel** (NLP) pour analyser les données textuelles recueillis de différentes sources.    
+        • Création, publication et documentation d’un **Dashboard** d’analyse interactif pour toutes les régions de Rte.    
+        • Simulation et prévision du nombre total du retrait d'ouvrages en utilisant les modèles de **séries temporelles**, de **Machine Learning** et du **réseaux de neuronnes** (LSTM).  
+        • Documentation en utilisant R Markdown et **Git**.<br/> <br/>
+        **Technologie :** R - Python - Shiny - Rmarkdown - SQL - Git - Machine Learning - Série temporelles - Réseaux de neuronnes         
+        **Secteurs:** Energie 
       location: Paris
       title: Data Scientist
       
