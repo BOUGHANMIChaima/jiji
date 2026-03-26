@@ -82,14 +82,14 @@ sections:
           icon_pack: fas
         - name: AI & LLM
           description: 70%
-          icon: openai
+          icon: bots
           icon_pack: fab
         - name: Prompt Engineering
           description: 70%
           icon: terminal
           icon_pack: fas
         - name: Marketing Mix Modeling
-          description: 80%
+          description: 90%
           icon: m
           icon_pack: fas
         - name: MassTer
