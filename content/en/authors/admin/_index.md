@@ -90,9 +90,8 @@ During her studies, Ms. Boughanmi acquired experience in mathematical modeling, 
 She also had the opportunity, through her engineering internship, her two end-of-study internships for master's studies and academic projects, to gain an understanding of the data analysis issues in which she was particularly interested, and to build up experience in this field.  
 Through her studies, Chaima developed a deep interest in large-scale data analysis and processing, forecasting, optimization, data mining and graph theory.
 She loves bringing numbers to life, giving them meaning and value.
-She has a very good mastery of programming languages, especially
-R and R/shiny. She was a member of [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/) when she was a student and is currently one of the organizers of [R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/).
-She also masters Python, SQL, SAS and obviously Latex and Git.  
+She has a very good mastery of programming languages, especially Python, R and R/shiny. She was a member of [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/) when she was a student and is currently one of the organizers of [R-Ladies Paris](https://www.meetup.com/fr-FR/rladies-paris/).
+She also masters SQL, SAS and obviously Latex and Git.  
 Miss Boughanmi is a footballer, so when she's not playing with numbers and data, she's playing with the ball ! That's why she chose to work on tactical analysis of team sports during her Master's research at [GREYC](https://www.greyc.fr/laboratoire/) laboratory.
 With the Paris Saclay team, Chaima and her teammates qualified for the 2022 france championship, finishing first in île de France and 5th in all of France.
 
