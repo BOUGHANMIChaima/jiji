@@ -167,13 +167,14 @@ sections:
       date_start: "2022-04-04"
       date_end: "2022-10-31"
       description: |2-
-        Data Science applied to the planning process: creating value through exploration and analysis of brute data: 
-        * Creation of **SQL** queries to extract data from various department databases.
-        * Processing and analysis of data required to improve the 'planning process'.
-        * Creation, publication and documentation of an interactive dashboard using **R Shiny**.
-        * Classification of 'energy works' and accuracy of consumption using **Machine Learning** algorithms with **python**.
-        * Documentation using **Rmarkdown** and **Git**. <br/> <br/>
-        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time series  
+        The purpose of this project is to implement data science techniques to improve the control of the planning process for the electricity transport network using unstructured data:  
+        • Creating **SQL** queries to extract data from large databases across various departments.    
+        • Processing and analyzing the necessary data and generating statistics to improve the planning process.  
+        • Applying **Natural Language Processing** (NLP) to analyze textual data collected from various sources.    
+        • Creation, publication, and documentation of an interactive analytics **dashboard** for all RTE regions.      
+        • Simulation and **forecasting** of total power generation using **time series** models, **machine learning**, and long short-term memory (LSTM) **neural networks**.  
+        • Documentation using R Markdown and **Git**.<br/> <br/>  
+        **Technology :** R - Shiny - Rmarkdown - SQL - Python - Git - Machine Learning - Time series - Neural Networks    
         **Fields :** Energy sector
       location: Paris
       title: Data Scientist
