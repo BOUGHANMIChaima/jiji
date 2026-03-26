@@ -133,17 +133,17 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-         𝟏- Machine Learning & Data Visualization:
-         •  Implementation of **Machine Learning** models to solve customer problems: use of Random Forest, regression, clustering, time series, and One-Hot Encoding models with hyperparameter optimization using   XGBoost—cross-validation and class balancing techniques. 
-         •  Implementation of attribution models using Markov chains.
-         •  Development of interactive charts and dashboards using Shiny.
-         •  Implementation of a PySTAN model using the Markov Chain Monte Carlo (MCMC) method to estimate Bayesian models.
-         * Implement attribution models with **Markov chains**.
-         * Develop interactive graphs and dashboards with **shiny**.
-         * Explore and implement **synergy** calculation methods for a **multiplicative** model within the context of a **Marketing Mix**: Application to our internal data.
-         * Implement a **PySTAN** model using **Markov Chains Monte Carlo (MCMC)** to estimate **Bayesian** models. <br/> <br/>
-         **Technology :** R - Shniy - Python - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
-         **Fields :** FMCG - Telecommunication - Automotive sector - Transport - Parfumes - Sports betting
+         𝟏- Machine Learning & Data Visualization:  
+         •  Implementation of **Machine Learning** models to solve customer problems: use of Random Forest, regression, clustering, time series, and One-Hot Encoding models with hyperparameter optimization using   XGBoost—cross-validation and class balancing techniques.   
+         •  Implementation of attribution models using Markov chains.  
+         •  Development of interactive charts and dashboards using Shiny.  
+         •  Implementation of a PySTAN model using the Markov Chain Monte Carlo (MCMC) method to estimate Bayesian models.  
+        𝟐 - 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐌𝐢𝐱 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 (MMM):   
+        • Development and deployment of MMM models to measure the impact of different marketing channels on sales, optimize budget allocation, and provide strategic recommendations based on advanced statistical analysis.      
+        • Evaluation of marketing campaign ROI and identification of the most rentable levers.
+        •  Exploration and implementation of synergy calculation methods for a multiplicative model.
+        **Fiels:** FMCG - Telecommunications - Transport - Automotive - Perfumes - Online banking - Sports betting. <br/> <br/>
+        **Technology :** R - Shniy - Python - LLM - IA - Prompt engineering - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
       location: Paris
       title: Data Scientist
 
