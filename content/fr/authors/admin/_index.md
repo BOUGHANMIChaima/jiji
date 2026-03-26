@@ -23,6 +23,7 @@ highlight_name: true
 
 # Interests to show in About widget
 interests:
+- IA & LLM
 - Statistiques & Machine learning
 - Programmation
 - Data analyse et visualisation
