@@ -186,7 +186,7 @@ sections:
          * Animation de la partie pratique de la formation pour les cadres de l'Observatoire national de la sécurité routière.
          * Application en utilisant **le langage R**, **les statistiques descriptives** et **les statistiques inférentielles**.  <br/> <br/>
          **Technologie :** R - les statistiques decriptives et inférentielles  
-         **Domaines :** secteur de la Santé
+         **Secteurs :** Santé
       location: Tunisie
       title: Formatrice en statistiques
       
@@ -200,7 +200,7 @@ sections:
          * Application de l'algorithme aux données de la **coupe du monde de handball** de Qatar 2015.
          * Participation à la rédaction d'un **article de recherche** en utilisant **Latex**.  <br/> <br/>
          **Technologie :** Python - Programmation Orientée Objet (POO) - les graphes dynamiques - Analyse tactique - Latex  
-          **Domaines :** secteur du Sport
+          **Secteurs:** Sport
       location: Caen, France
       title: Chercheuse en Data mining
       
@@ -229,7 +229,7 @@ sections:
          * Analyser les données et créer des graphiques explicatifs.
          * Calcul des indicateurs et mise en place de [tableau de bord](https://boughanmi-chaima.shinyapps.io/121KAP2018/) **R shiny**. <br/> <br/>
          **Technologie :** R - shiny - Statistiques - Analyse de données  
-         **Domaines :** Secteur Social
+         **Secteurs :** Secteur Social
   design:
     columns: "2"
     
