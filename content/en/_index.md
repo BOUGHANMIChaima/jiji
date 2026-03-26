@@ -133,17 +133,18 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-         𝟏- **Machine Learning & Data Visualization**:  
+         𝟏 **Machine Learning & Data Visualization**:  
          •  Implementation of **Machine Learning** models to solve customer problems: use of Random Forest, regression, clustering, time series, and One-Hot Encoding models with hyperparameter optimization using   XGBoost—cross-validation and class balancing techniques.   
          •  Implementation of attribution models using Markov chains.  
          •  Development of interactive charts and dashboards using Shiny.  
          •  Implementation of a PySTAN model using the Markov Chain Monte Carlo (MCMC) method to estimate Bayesian models.<br/> <br/>
-        𝟐 - 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐌𝐢𝐱 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 (MMM):   
-        • Development and deployment of MMM models to measure the impact of different marketing channels on sales, optimize budget allocation, and provide strategic recommendations based on advanced statistical analysis.      
-        • Evaluation of marketing campaign ROI and identification of the most rentable levers.  
-        •  Exploration and implementation of synergy calculation methods for a multiplicative model.<br/> <br/>
-        **Fiels:** FMCG - Telecommunications - Transport - Automotive - Perfumes - Online banking - Sports betting. 
-        **Technology :** R - Shniy - Python - LLM - IA - Prompt engineering - MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling  
+         𝟐 - **Marketing Mix Modeling (MMM)**:  
+         • Development and deployment of MMM models to measure the impact of different marketing channels on sales, optimize budget allocation, and provide strategic recommendations based on advanced statistical analysis.      
+         • Evaluation of marketing campaign ROI and identification of the most rentable levers.  
+         •  Exploration and implementation of synergy calculation methods for a multiplicative model.<br/> <br/>
+         𝟑- Testing different **LLMs** (Claude, Gemini, Mistral, ChatGPT) and the practice of **prompt engineering** with a focus on decision support and systematic human validation.<br/> <br/>
+        **Fiels:** FMCG - Telecommunications - Transport - Automotive - Perfumes - Online banking - Sports betting.     
+        **Technology :** R - Shniy - Python - LLM - IA - Prompt engineering - NLP - Git -  MassTer - Marketing Mix Modeling - Econometry - Statistical Modelisation - Random Forest - XGBoost - Markov Chains - Bayesian Modeling.  
       location: Paris
       title: Data Scientist
 
