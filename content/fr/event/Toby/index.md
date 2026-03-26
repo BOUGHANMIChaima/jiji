@@ -1,0 +1,64 @@
+---
+title: Programmation R efficace en temps et en mémoire
+
+event: R-Ladies Paris
+event_url: https://www.meetup.com/fr-fr/rladies-paris/events/308543181/?eventOrigin=group_past_events
+
+location: Paris
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: Tunisia
+
+summary: Vous devez souvent attendre que le code R calcule des résultats à partir de grands ensembles de données ? Ou êtes-vous à court de mémoire ? Toby Dylan Hocking nous montrera la meilleure manière de remanier le code R afin de minimiser l'utilisation du temps et de la mémoire.
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2025-06-27T12:30:00Z'
+#date_end: '2030-06-01T15:00:00Z'
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2025-06-20T00:00:00Z'
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: 'Image credit:[**R-Ladies Paris**](https://www.meetup.com/fr-FR/rladies-paris/)'
+  focal_point: Right
+
+links:
+  - icon: meetup
+    icon_pack: fab
+    name: Follow
+    url: https://www.meetup.com/fr-fr/rladies-paris/events/308543181/?eventOrigin=group_past_events
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'youtube.com/watch?v=OSCf0MxwQbc&feature=youtu.be'
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+#projects:
+#  - example
+---
+
+{{% callout note %}}
+Click on the **Video** button above to view the full talk of the participants.
+{{% /callout %}}
