@@ -22,8 +22,8 @@ highlight_name: true
 
 # Interests to show in About widget
 interests:
-- Statistics & Machine learning
 - AI & LLM
+- Statistics & Machine learning
 - Coding
 - Data analysis and visualization
 - Marketing Mix Modeling (MMM)
