@@ -23,6 +23,7 @@ highlight_name: true
 # Interests to show in About widget
 interests:
 - Statistics & Machine learning
+- AI & LLM
 - Coding
 - Data analysis and visualization
 - Marketing Mix Modeling (MMM)
@@ -82,8 +83,9 @@ title: Chaima Boughanmi
 Chaima BOUGHANMI is a Data Scientist at [Ipsos](https://www.ipsos.com/fr-fr) in Paris. Data science was the perfectly suited discipline for her. She is an engineer in statistics and information analysis.
 She holds a master's degree in data science from [Université Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/mathematiques-et-applications/m2-data-science-sante-assurance-et-finance) and a research master's degree in information processing and complexity of living systems.  
 Very comfortable with numbers and statistics, she likes to give them meaning and see them have an impact on reality.
-She has worked in several fields: energy, sports, polling, FMCG, automotive, telecom, media and marketing.
-During the current missions, she specializes in Marketing Mix Modeling (MMM) and ROI market research, with a focus on quantifying the effects of marketing decisions and estimating the value of intangible assets through 3-dimensional modeling—mathematical, financial, and visual. Her expertise includes implementing Machine Learning (ML) models such as Random Forest and XGBoost to solve customer issues, along with developing attribution models using Markov chains. She creates interactive dashboards and graphs with Shiny to enhance data visualization. Additionally, She has experience in synergy calculation methods for multiplicative models within MMM and in estimating Bayesian models using PySTAN and Markov Chain Monte Carlo (MCMC) methods.  
+She has worked in several fields: Energy, sports, polling, FMCG, automotive, telecom, media and marketing.
+Passionate about AI, she currently works on prompt engineering for large language models LLM (ChatGPT, Mistral, Claude, Gemini, etc.), testing them on AI-based solutions combined with RAG approaches for the exploitation and analysis of company data. 
+During other missions, she specializes in Marketing Mix Modeling (MMM) and ROI market research, with a focus on quantifying the effects of marketing decisions and estimating the value of intangible assets through 3-dimensional modeling—mathematical, financial, and visual. Her expertise includes implementing Machine Learning (ML) models such as Random Forest and XGBoost to solve customer issues, along with developing attribution models using Markov chains. She creates interactive dashboards and graphs with Shiny to enhance data visualization. Additionally, She has experience in synergy calculation methods for multiplicative models within MMM and in estimating Bayesian models using PySTAN and Markov Chain Monte Carlo (MCMC) methods.  
 During her studies, Ms. Boughanmi acquired experience in mathematical modeling, data analysis, programming, data visualization and Machine Learning. 
 She also had the opportunity, through her engineering internship, her two end-of-study internships for master's studies and academic projects, to gain an understanding of the data analysis issues in which she was particularly interested, and to build up experience in this field.  
 Through her studies, Chaima developed a deep interest in large-scale data analysis and processing, forecasting, optimization, data mining and graph theory.
