@@ -230,7 +230,7 @@ sections:
          * Analyser les données et créer des graphiques explicatifs.
          * Calcul des indicateurs et mise en place de [tableau de bord](https://boughanmi-chaima.shinyapps.io/121KAP2018/) **R shiny**. <br/> <br/>
          **Technologie :** R - shiny - Statistiques - Analyse de données  
-         **Secteurs :** Secteur Social
+         **Secteurs :** Social
   design:
     columns: "2"
     
