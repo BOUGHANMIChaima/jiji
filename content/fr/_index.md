@@ -80,8 +80,16 @@ sections:
           description: 70%
           icon: brain
           icon_pack: fas
+        - name: IA & LLM
+          description: 70%
+          icon: boat
+          icon_pack: fab
+        - name: prompt Engineering
+          description: 70%
+          icon: terminal
+          icon_pack: fab
         - name: Marketing Mix Modeling
-          description: 80%
+          description: 90%
           icon: m
           icon_pack: fas
         - name: MassTer
