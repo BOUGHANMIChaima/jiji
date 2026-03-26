@@ -1,5 +1,5 @@
 ---
-title: Utilisation de l'IA générative dans R : capacités et opportunités
+title: Utilisation de l'IA générative dans R - capacités et opportunités
 
 event: R-Ladies Paris
 event_url: https://www.meetup.com/fr-fr/rladies-paris/events/312083756/?eventOrigin=group_past_events
