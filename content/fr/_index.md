@@ -133,19 +133,18 @@ sections:
       company_url: "https://www.ipsos.com/fr-fr"
       date_start: "2022-11-07"
       description: |2-
-         * Collecter, structurer et analyser les données marketing issues des agences médias, régies publicitaires et outils internes du client.
-         * Vérifier les incohérences, valider les données et les hypothèses de travail avec l’équipe Marketing.
-         * Développer et maintenir des modèles de **Marketing Mix Modeling (MMM)** pour mesurer l’impact des investissements marketing sur le KPI (Ventes, CA, Taffic).
-         * Analyser la contribution de chaque levier marketing (TV, digital, social media, display, search, etc.) à la performance globale.
-         * Optimiser la repartition du budget marketing à l’aide de modèles statistiques avancés. 
-         * Evaluer le ROI des campagnes et identifier les leviers les plus rentables.
-         * Implémenter des modèles de **Machine learning** pour répondre à des problématiques clients : **les modèles d'attributions** (utilisation de Random Forest, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes). 
-         * Implémentation des modèles d'attribution avec les **Chaînes de Markov**
-         * Développement de graphiques interactifs et de Dashboards avec **Shiny.**
-         * Exploration et implémentation des méthodes de calcul de **synergie** pour un modèle **multiplicatif** dans le cadre d'un **Marketing Mix** : Application sur nos données en interne.
-         * Implémentation d'un modèle **PySTAN** en utilisant la méthode **Monte Carlo par Markov Chains (MCMC)** pour estimer des modèles **bayésiens**.<br/> <br/>
-         **Technologie :** R - Shniy - Python - MassTer -  Marketing Mix Modelling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne  
-         **Domaines :** FMCG - Télécommunication - Automobile - Transport - Parfums - Paris sportifs
+        𝟏- **Machine Learning & Data visualisation**
+        •  Implémentation des modèles de Machine Learning pour répondre à des problématiques clients : utilisation des modèles de Random Forest, régression, clustering, séries temmporelles, One Hot Encoding avec optimisation des hyperparamètres avec XGBoost - Cross Validation et les techniques d'équilibrage des classes.   
+        •  Implémentation des modèles d'attribution avec les chaînes de Markov.  
+        •  Développement de graphiques interactifs et de Dashboards avec Shiny.  
+        •  Implémentation d'un modèle PySTAN en utilisant la méthode Monte Carlo par Markov Chain (MCMC) pour estimer des modèles bayésiens.  
+        𝟐- **Marketing Mix Modeling**
+        • Conception et déploiement de modèles de MMM permettant de mesurer l’impact des différents canaux marketing sur les ventes, optimiser l’allocation des budgets et fournir des  recommandations stratégiques basées sur des analyses statistiques avancées.    
+        •  Evaluation du ROI des campagnes marketing et identification des leviers les plus rentables.  
+        •  Exploration et implémentation des méthodes de calcul de synergie pour un modèle multiplicatif.    
+        **Secteurs** FMCG - Télécommunication - Transport - Automobile - Parfums - Banque en ligne - Paris sportifs.    
+        𝟑- **Expérimentation de différents LLMs** (Claude, Gemini, Mistral, ChatGPT) et pratique du **prompt engineering** dans une logique d'assistance à la décision avec validation humaine systématique. <br/> <br/>
+        **Technologie :** Python - R - Shniy - LLM - Prompt Engineering - Machine Learning - MassTer -  Marketing Mix Modelling - Econométrie - Modélisation statistique - Random Forest - XGBoost - Chaînes de Markov - Modélisation Bayésienne     
       location: Paris
       title: Data Scientist
     - company: R-Ladies Paris
