@@ -1,7 +1,7 @@
 ---
 title: NLP automatique avec LLM à l'aide du package mall 
 
-event: RLadies+ Paris
+event: RLadies Paris
 event_url: https://www.youtube.com/watch?v=jh2U5U-mJ_w
 
 location: Paris
