@@ -1,8 +1,8 @@
 ---
 title: NLP automatique avec LLM à l'aide du package mall 
 
-event: RLadies Paris
-event_url: https://www.youtube.com/watch?v=jh2U5U-mJ_w
+event: R-Ladies Paris
+event_url: https://www.meetup.com/fr-fr/rladies-paris/events/314532064/?eventOrigin=group_past_events
 
 location: Paris
 address:
@@ -22,7 +22,7 @@ date: '2026-05-13T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-05-13T19:00:00Z'
 
 authors: []
 tags: []
